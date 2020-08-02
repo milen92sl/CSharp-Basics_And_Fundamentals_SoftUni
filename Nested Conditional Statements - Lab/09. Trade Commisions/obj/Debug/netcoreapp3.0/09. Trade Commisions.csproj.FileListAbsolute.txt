@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\bin\Debug\netcoreapp3.0\09. Trade Commisions.exe
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\bin\Debug\netcoreapp3.0\09. Trade Commisions.deps.json
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\bin\Debug\netcoreapp3.0\09. Trade Commisions.runtimeconfig.json
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\bin\Debug\netcoreapp3.0\09. Trade Commisions.runtimeconfig.dev.json
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\bin\Debug\netcoreapp3.0\09. Trade Commisions.dll
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\bin\Debug\netcoreapp3.0\09. Trade Commisions.pdb
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\obj\Debug\netcoreapp3.0\09. Trade Commisions.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\obj\Debug\netcoreapp3.0\09. Trade Commisions.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\obj\Debug\netcoreapp3.0\09. Trade Commisions.AssemblyInfo.cs
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\obj\Debug\netcoreapp3.0\09. Trade Commisions.dll
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\09. Trade Commisions\obj\Debug\netcoreapp3.0\09. Trade Commisions.pdb

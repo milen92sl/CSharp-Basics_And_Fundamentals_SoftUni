@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\bin\Debug\netcoreapp3.0\03.Vacation.exe
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\bin\Debug\netcoreapp3.0\03.Vacation.deps.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\bin\Debug\netcoreapp3.0\03.Vacation.runtimeconfig.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\bin\Debug\netcoreapp3.0\03.Vacation.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\bin\Debug\netcoreapp3.0\03.Vacation.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\bin\Debug\netcoreapp3.0\03.Vacation.pdb
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\obj\Debug\netcoreapp3.0\03.Vacation.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\obj\Debug\netcoreapp3.0\03.Vacation.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\obj\Debug\netcoreapp3.0\03.Vacation.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\obj\Debug\netcoreapp3.0\03.Vacation.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\03.Vacation\obj\Debug\netcoreapp3.0\03.Vacation.pdb

@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\bin\Debug\netcoreapp3.0\06 Wizard Poker.exe
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\bin\Debug\netcoreapp3.0\06 Wizard Poker.deps.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\bin\Debug\netcoreapp3.0\06 Wizard Poker.runtimeconfig.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\bin\Debug\netcoreapp3.0\06 Wizard Poker.runtimeconfig.dev.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\bin\Debug\netcoreapp3.0\06 Wizard Poker.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\bin\Debug\netcoreapp3.0\06 Wizard Poker.pdb
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\obj\Debug\netcoreapp3.0\06 Wizard Poker.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\obj\Debug\netcoreapp3.0\06 Wizard Poker.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\obj\Debug\netcoreapp3.0\06 Wizard Poker.AssemblyInfo.cs
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\obj\Debug\netcoreapp3.0\06 Wizard Poker.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\06\obj\Debug\netcoreapp3.0\06 Wizard Poker.pdb

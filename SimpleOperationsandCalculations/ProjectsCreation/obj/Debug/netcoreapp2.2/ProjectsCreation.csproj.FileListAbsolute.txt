@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\ProjectsCreation\bin\Debug\netcoreapp2.2\ProjectsCreation.deps.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\ProjectsCreation\bin\Debug\netcoreapp2.2\ProjectsCreation.runtimeconfig.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\ProjectsCreation\bin\Debug\netcoreapp2.2\ProjectsCreation.runtimeconfig.dev.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\ProjectsCreation\bin\Debug\netcoreapp2.2\ProjectsCreation.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\ProjectsCreation\bin\Debug\netcoreapp2.2\ProjectsCreation.pdb
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\ProjectsCreation\obj\Debug\netcoreapp2.2\ProjectsCreation.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\ProjectsCreation\obj\Debug\netcoreapp2.2\ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\ProjectsCreation\obj\Debug\netcoreapp2.2\ProjectsCreation.AssemblyInfo.cs
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\ProjectsCreation\obj\Debug\netcoreapp2.2\ProjectsCreation.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\ProjectsCreation\obj\Debug\netcoreapp2.2\ProjectsCreation.pdb

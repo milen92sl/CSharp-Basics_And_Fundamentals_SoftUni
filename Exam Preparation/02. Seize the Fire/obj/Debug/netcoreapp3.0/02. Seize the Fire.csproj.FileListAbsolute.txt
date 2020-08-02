@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\bin\Debug\netcoreapp3.0\02. Seize the Fire.exe
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\bin\Debug\netcoreapp3.0\02. Seize the Fire.deps.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\bin\Debug\netcoreapp3.0\02. Seize the Fire.runtimeconfig.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\bin\Debug\netcoreapp3.0\02. Seize the Fire.runtimeconfig.dev.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\bin\Debug\netcoreapp3.0\02. Seize the Fire.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\bin\Debug\netcoreapp3.0\02. Seize the Fire.pdb
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\obj\Debug\netcoreapp3.0\02. Seize the Fire.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\obj\Debug\netcoreapp3.0\02. Seize the Fire.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\obj\Debug\netcoreapp3.0\02. Seize the Fire.AssemblyInfo.cs
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\obj\Debug\netcoreapp3.0\02. Seize the Fire.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\02. Seize the Fire\obj\Debug\netcoreapp3.0\02. Seize the Fire.pdb

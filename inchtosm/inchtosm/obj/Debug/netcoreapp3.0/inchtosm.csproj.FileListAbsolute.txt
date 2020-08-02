@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\inchtosm\inchtosm\obj\Debug\netcoreapp3.0\inchtosm.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\inchtosm\inchtosm\obj\Debug\netcoreapp3.0\inchtosm.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\inchtosm\inchtosm\obj\Debug\netcoreapp3.0\inchtosm.AssemblyInfo.cs
+C:\Users\N1\source\repos\inchtosm\inchtosm\bin\Debug\netcoreapp3.0\inchtosm.exe
+C:\Users\N1\source\repos\inchtosm\inchtosm\bin\Debug\netcoreapp3.0\inchtosm.deps.json
+C:\Users\N1\source\repos\inchtosm\inchtosm\bin\Debug\netcoreapp3.0\inchtosm.runtimeconfig.json
+C:\Users\N1\source\repos\inchtosm\inchtosm\bin\Debug\netcoreapp3.0\inchtosm.runtimeconfig.dev.json
+C:\Users\N1\source\repos\inchtosm\inchtosm\bin\Debug\netcoreapp3.0\inchtosm.dll
+C:\Users\N1\source\repos\inchtosm\inchtosm\bin\Debug\netcoreapp3.0\inchtosm.pdb
+C:\Users\N1\source\repos\inchtosm\inchtosm\obj\Debug\netcoreapp3.0\inchtosm.dll
+C:\Users\N1\source\repos\inchtosm\inchtosm\obj\Debug\netcoreapp3.0\inchtosm.pdb

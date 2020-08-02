@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\bin\Debug\netcoreapp3.0\Greetings by name.exe
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\bin\Debug\netcoreapp3.0\Greetings by name.deps.json
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\bin\Debug\netcoreapp3.0\Greetings by name.runtimeconfig.json
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\bin\Debug\netcoreapp3.0\Greetings by name.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\bin\Debug\netcoreapp3.0\Greetings by name.dll
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\bin\Debug\netcoreapp3.0\Greetings by name.pdb
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\obj\Debug\netcoreapp3.0\Greetings by name.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\obj\Debug\netcoreapp3.0\Greetings by name.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\obj\Debug\netcoreapp3.0\Greetings by name.AssemblyInfo.cs
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\obj\Debug\netcoreapp3.0\Greetings by name.dll
+C:\Users\N1\source\repos\Greetings by name\Greetings by name\obj\Debug\netcoreapp3.0\Greetings by name.pdb

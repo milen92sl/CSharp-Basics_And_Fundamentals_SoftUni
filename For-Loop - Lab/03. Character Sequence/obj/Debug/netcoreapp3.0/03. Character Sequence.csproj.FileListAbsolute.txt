@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\bin\Debug\netcoreapp3.0\03. Character Sequence.exe
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\bin\Debug\netcoreapp3.0\03. Character Sequence.deps.json
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\bin\Debug\netcoreapp3.0\03. Character Sequence.runtimeconfig.json
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\bin\Debug\netcoreapp3.0\03. Character Sequence.runtimeconfig.dev.json
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\bin\Debug\netcoreapp3.0\03. Character Sequence.dll
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\bin\Debug\netcoreapp3.0\03. Character Sequence.pdb
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\obj\Debug\netcoreapp3.0\03. Character Sequence.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\obj\Debug\netcoreapp3.0\03. Character Sequence.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\obj\Debug\netcoreapp3.0\03. Character Sequence.AssemblyInfo.cs
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\obj\Debug\netcoreapp3.0\03. Character Sequence.dll
+C:\Users\N1\source\repos\For-Loop - Lab\03. Character Sequence\obj\Debug\netcoreapp3.0\03. Character Sequence.pdb

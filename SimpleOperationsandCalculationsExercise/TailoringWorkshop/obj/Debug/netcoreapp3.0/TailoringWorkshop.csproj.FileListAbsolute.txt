@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.exe
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.deps.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.runtimeconfig.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.runtimeconfig.dev.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\bin\Debug\netcoreapp3.0\TailoringWorkshop.pdb
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.AssemblyInfo.cs
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\TailoringWorkshop\obj\Debug\netcoreapp3.0\TailoringWorkshop.pdb

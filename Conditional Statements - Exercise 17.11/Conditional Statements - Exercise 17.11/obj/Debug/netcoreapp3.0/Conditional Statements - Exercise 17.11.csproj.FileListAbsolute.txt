@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\bin\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.exe
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\bin\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.deps.json
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\bin\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.runtimeconfig.json
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\bin\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\bin\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.dll
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\bin\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.pdb
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\obj\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\obj\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\obj\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.AssemblyInfo.cs
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\obj\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.dll
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\Conditional Statements - Exercise 17.11\obj\Debug\netcoreapp3.0\Conditional Statements - Exercise 17.11.pdb

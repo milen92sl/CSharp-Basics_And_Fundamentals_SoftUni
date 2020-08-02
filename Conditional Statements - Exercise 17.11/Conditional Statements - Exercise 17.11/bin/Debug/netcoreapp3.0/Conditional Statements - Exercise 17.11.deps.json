@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Conditional Statements - Exercise 17.11/1.0.0": {
+        "runtime": {
+          "Conditional Statements - Exercise 17.11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditional Statements - Exercise 17.11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

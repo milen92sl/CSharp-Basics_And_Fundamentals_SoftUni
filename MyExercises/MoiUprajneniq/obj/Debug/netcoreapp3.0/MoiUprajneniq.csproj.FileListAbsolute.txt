@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\bin\Debug\netcoreapp3.0\MoiUprajneniq.exe
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\bin\Debug\netcoreapp3.0\MoiUprajneniq.deps.json
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\bin\Debug\netcoreapp3.0\MoiUprajneniq.runtimeconfig.json
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\bin\Debug\netcoreapp3.0\MoiUprajneniq.runtimeconfig.dev.json
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\bin\Debug\netcoreapp3.0\MoiUprajneniq.dll
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\bin\Debug\netcoreapp3.0\MoiUprajneniq.pdb
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\obj\Debug\netcoreapp3.0\MoiUprajneniq.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\obj\Debug\netcoreapp3.0\MoiUprajneniq.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\obj\Debug\netcoreapp3.0\MoiUprajneniq.AssemblyInfo.cs
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\obj\Debug\netcoreapp3.0\MoiUprajneniq.dll
+C:\Users\N1\source\repos\MoiUprajneniq\MoiUprajneniq\obj\Debug\netcoreapp3.0\MoiUprajneniq.pdb

@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\bin\Debug\netcoreapp3.0\01, The Old Library.exe
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\bin\Debug\netcoreapp3.0\01, The Old Library.deps.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\bin\Debug\netcoreapp3.0\01, The Old Library.runtimeconfig.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\bin\Debug\netcoreapp3.0\01, The Old Library.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\bin\Debug\netcoreapp3.0\01, The Old Library.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\bin\Debug\netcoreapp3.0\01, The Old Library.pdb
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\obj\Debug\netcoreapp3.0\01, The Old Library.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\obj\Debug\netcoreapp3.0\01, The Old Library.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\obj\Debug\netcoreapp3.0\01, The Old Library.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\obj\Debug\netcoreapp3.0\01, The Old Library.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\ConsoleApp1\obj\Debug\netcoreapp3.0\01, The Old Library.pdb

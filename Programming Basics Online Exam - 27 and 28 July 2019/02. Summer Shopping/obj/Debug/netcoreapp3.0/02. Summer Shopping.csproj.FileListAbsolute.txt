@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\bin\Debug\netcoreapp3.0\02. Summer Shopping.exe
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\bin\Debug\netcoreapp3.0\02. Summer Shopping.deps.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\bin\Debug\netcoreapp3.0\02. Summer Shopping.runtimeconfig.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\bin\Debug\netcoreapp3.0\02. Summer Shopping.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\bin\Debug\netcoreapp3.0\02. Summer Shopping.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\bin\Debug\netcoreapp3.0\02. Summer Shopping.pdb
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\obj\Debug\netcoreapp3.0\02. Summer Shopping.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\obj\Debug\netcoreapp3.0\02. Summer Shopping.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\obj\Debug\netcoreapp3.0\02. Summer Shopping.AssemblyInfo.cs
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\obj\Debug\netcoreapp3.0\02. Summer Shopping.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\02. Summer Shopping\obj\Debug\netcoreapp3.0\02. Summer Shopping.pdb

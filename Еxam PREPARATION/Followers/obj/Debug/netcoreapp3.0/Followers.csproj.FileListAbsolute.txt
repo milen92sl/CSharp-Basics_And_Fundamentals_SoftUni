@@ -1,0 +1,2 @@
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Followers\obj\Debug\netcoreapp3.0\Followers.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Followers\obj\Debug\netcoreapp3.0\Followers.AssemblyInfo.cs

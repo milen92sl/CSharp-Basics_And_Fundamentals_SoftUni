@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.exe
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.deps.json
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.runtimeconfig.json
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.runtimeconfig.dev.json
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.dll
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.pdb
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\obj\Debug\netcoreapp3.0\01. Christmas Sweets.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\obj\Debug\netcoreapp3.0\01. Christmas Sweets.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\obj\Debug\netcoreapp3.0\01. Christmas Sweets.AssemblyInfo.cs
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\obj\Debug\netcoreapp3.0\01. Christmas Sweets.dll
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\01. Christmas Sweets\obj\Debug\netcoreapp3.0\01. Christmas Sweets.pdb

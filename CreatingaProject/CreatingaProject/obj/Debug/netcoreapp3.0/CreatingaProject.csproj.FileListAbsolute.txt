@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\CreatingaProject\CreatingaProject\obj\Debug\netcoreapp3.0\CreatingaProject.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\CreatingaProject\CreatingaProject\obj\Debug\netcoreapp3.0\CreatingaProject.AssemblyInfo.cs
+C:\Users\N1\source\repos\CreatingaProject\CreatingaProject\bin\Debug\netcoreapp3.0\CreatingaProject.exe
+C:\Users\N1\source\repos\CreatingaProject\CreatingaProject\bin\Debug\netcoreapp3.0\CreatingaProject.deps.json
+C:\Users\N1\source\repos\CreatingaProject\CreatingaProject\bin\Debug\netcoreapp3.0\CreatingaProject.runtimeconfig.json
+C:\Users\N1\source\repos\CreatingaProject\CreatingaProject\bin\Debug\netcoreapp3.0\CreatingaProject.runtimeconfig.dev.json
+C:\Users\N1\source\repos\CreatingaProject\CreatingaProject\bin\Debug\netcoreapp3.0\CreatingaProject.dll
+C:\Users\N1\source\repos\CreatingaProject\CreatingaProject\bin\Debug\netcoreapp3.0\CreatingaProject.pdb
+C:\Users\N1\source\repos\CreatingaProject\CreatingaProject\obj\Debug\netcoreapp3.0\CreatingaProject.dll
+C:\Users\N1\source\repos\CreatingaProject\CreatingaProject\obj\Debug\netcoreapp3.0\CreatingaProject.pdb

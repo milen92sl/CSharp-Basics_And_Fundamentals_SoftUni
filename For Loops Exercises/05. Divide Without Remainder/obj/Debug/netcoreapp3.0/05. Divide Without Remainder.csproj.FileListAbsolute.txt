@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\05. Divide Without Remainder\bin\Debug\netcoreapp3.0\05. Divide Without Remainder.exe
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\05. Divide Without Remainder\bin\Debug\netcoreapp3.0\05. Divide Without Remainder.deps.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\05. Divide Without Remainder\bin\Debug\netcoreapp3.0\05. Divide Without Remainder.runtimeconfig.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\05. Divide Without Remainder\bin\Debug\netcoreapp3.0\05. Divide Without Remainder.runtimeconfig.dev.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\05. Divide Without Remainder\bin\Debug\netcoreapp3.0\05. Divide Without Remainder.dll
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\05. Divide Without Remainder\bin\Debug\netcoreapp3.0\05. Divide Without Remainder.pdb
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\05. Divide Without Remainder\obj\Debug\netcoreapp3.0\05. Divide Without Remainder.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\05. Divide Without Remainder\obj\Debug\netcoreapp3.0\05. Divide Without Remainder.AssemblyInfo.cs
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\05. Divide Without Remainder\obj\Debug\netcoreapp3.0\05. Divide Without Remainder.dll
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\05. Divide Without Remainder\obj\Debug\netcoreapp3.0\05. Divide Without Remainder.pdb

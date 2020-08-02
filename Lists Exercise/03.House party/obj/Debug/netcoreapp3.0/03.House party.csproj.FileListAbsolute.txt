@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\bin\Debug\netcoreapp3.0\03.House party.exe
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\bin\Debug\netcoreapp3.0\03.House party.deps.json
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\bin\Debug\netcoreapp3.0\03.House party.runtimeconfig.json
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\bin\Debug\netcoreapp3.0\03.House party.runtimeconfig.dev.json
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\bin\Debug\netcoreapp3.0\03.House party.dll
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\bin\Debug\netcoreapp3.0\03.House party.pdb
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\obj\Debug\netcoreapp3.0\03.House party.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\obj\Debug\netcoreapp3.0\03.House party.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\obj\Debug\netcoreapp3.0\03.House party.AssemblyInfo.cs
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\obj\Debug\netcoreapp3.0\03.House party.dll
+C:\Users\N1\source\repos\14.02. Lists Exercise\03.House party\obj\Debug\netcoreapp3.0\03.House party.pdb

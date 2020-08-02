@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\bin\Debug\netcoreapp3.0\2.Race.exe
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\bin\Debug\netcoreapp3.0\2.Race.deps.json
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\bin\Debug\netcoreapp3.0\2.Race.runtimeconfig.json
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\bin\Debug\netcoreapp3.0\2.Race.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\bin\Debug\netcoreapp3.0\2.Race.dll
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\bin\Debug\netcoreapp3.0\2.Race.pdb
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\obj\Debug\netcoreapp3.0\2.Race.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\obj\Debug\netcoreapp3.0\2.Race.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\obj\Debug\netcoreapp3.0\2.Race.AssemblyInfo.cs
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\obj\Debug\netcoreapp3.0\2.Race.dll
+C:\Users\N1\source\repos\Regular Expression EXERCISE\2.Race\obj\Debug\netcoreapp3.0\2.Race.pdb

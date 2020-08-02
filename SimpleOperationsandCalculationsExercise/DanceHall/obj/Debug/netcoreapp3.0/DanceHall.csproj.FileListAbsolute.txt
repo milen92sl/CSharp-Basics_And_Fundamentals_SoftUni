@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.exe
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.deps.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.runtimeconfig.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.runtimeconfig.dev.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\DanceHall\bin\Debug\netcoreapp3.0\DanceHall.pdb
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\DanceHall\obj\Debug\netcoreapp3.0\DanceHall.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\DanceHall\obj\Debug\netcoreapp3.0\DanceHall.AssemblyInfo.cs
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\DanceHall\obj\Debug\netcoreapp3.0\DanceHall.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\DanceHall\obj\Debug\netcoreapp3.0\DanceHall.pdb

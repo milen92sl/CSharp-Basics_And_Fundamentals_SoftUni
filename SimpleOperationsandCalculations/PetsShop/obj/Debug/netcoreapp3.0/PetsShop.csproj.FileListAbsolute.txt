@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\bin\Debug\netcoreapp3.0\PetsShop.exe
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\bin\Debug\netcoreapp3.0\PetsShop.deps.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\bin\Debug\netcoreapp3.0\PetsShop.runtimeconfig.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\bin\Debug\netcoreapp3.0\PetsShop.runtimeconfig.dev.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\bin\Debug\netcoreapp3.0\PetsShop.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\bin\Debug\netcoreapp3.0\PetsShop.pdb
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\obj\Debug\netcoreapp3.0\PetsShop.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\obj\Debug\netcoreapp3.0\PetsShop.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\obj\Debug\netcoreapp3.0\PetsShop.AssemblyInfo.cs
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\obj\Debug\netcoreapp3.0\PetsShop.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\PetsShop\obj\Debug\netcoreapp3.0\PetsShop.pdb

@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.exe
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.deps.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.runtimeconfig.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.runtimeconfig.dev.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.dll
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\9. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.pdb
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\9. Chars to String\obj\Debug\netcoreapp3.0\09. Chars to String.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\9. Chars to String\obj\Debug\netcoreapp3.0\09. Chars to String.AssemblyInfo.cs
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\9. Chars to String\obj\Debug\netcoreapp3.0\09. Chars to String.dll
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\9. Chars to String\obj\Debug\netcoreapp3.0\09. Chars to String.pdb

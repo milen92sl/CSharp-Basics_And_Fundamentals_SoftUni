@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.exe
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.deps.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.runtimeconfig.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.runtimeconfig.dev.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\bin\Debug\netcoreapp3.0\USDtoBGN.pdb
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\obj\Debug\netcoreapp3.0\USDtoBGN.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\obj\Debug\netcoreapp3.0\USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\obj\Debug\netcoreapp3.0\USDtoBGN.AssemblyInfo.cs
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\obj\Debug\netcoreapp3.0\USDtoBGN.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\USDtoBGN\obj\Debug\netcoreapp3.0\USDtoBGN.pdb

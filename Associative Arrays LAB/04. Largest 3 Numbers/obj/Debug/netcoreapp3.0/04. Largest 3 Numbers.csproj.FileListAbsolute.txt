@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\bin\Debug\netcoreapp3.0\04. Largest 3 Numbers.exe
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\bin\Debug\netcoreapp3.0\04. Largest 3 Numbers.deps.json
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\bin\Debug\netcoreapp3.0\04. Largest 3 Numbers.runtimeconfig.json
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\bin\Debug\netcoreapp3.0\04. Largest 3 Numbers.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\bin\Debug\netcoreapp3.0\04. Largest 3 Numbers.dll
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\bin\Debug\netcoreapp3.0\04. Largest 3 Numbers.pdb
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\obj\Debug\netcoreapp3.0\04. Largest 3 Numbers.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\obj\Debug\netcoreapp3.0\04. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\obj\Debug\netcoreapp3.0\04. Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\obj\Debug\netcoreapp3.0\04. Largest 3 Numbers.dll
+C:\Users\N1\source\repos\Associative Arrays LAB\04. Largest 3 Numbers\obj\Debug\netcoreapp3.0\04. Largest 3 Numbers.pdb

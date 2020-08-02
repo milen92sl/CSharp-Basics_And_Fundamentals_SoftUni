@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "03. Equal Sums Even Odd Position/1.0.0": {
+        "runtime": {
+          "03. Equal Sums Even Odd Position.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03. Equal Sums Even Odd Position/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

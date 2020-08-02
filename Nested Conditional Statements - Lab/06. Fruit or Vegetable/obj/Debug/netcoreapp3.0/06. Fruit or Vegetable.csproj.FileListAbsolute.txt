@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\bin\Debug\netcoreapp3.0\06. Fruit or Vegetable.exe
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\bin\Debug\netcoreapp3.0\06. Fruit or Vegetable.deps.json
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\bin\Debug\netcoreapp3.0\06. Fruit or Vegetable.runtimeconfig.json
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\bin\Debug\netcoreapp3.0\06. Fruit or Vegetable.runtimeconfig.dev.json
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\bin\Debug\netcoreapp3.0\06. Fruit or Vegetable.dll
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\bin\Debug\netcoreapp3.0\06. Fruit or Vegetable.pdb
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\obj\Debug\netcoreapp3.0\06. Fruit or Vegetable.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\obj\Debug\netcoreapp3.0\06. Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\obj\Debug\netcoreapp3.0\06. Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\obj\Debug\netcoreapp3.0\06. Fruit or Vegetable.dll
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\06. Fruit or Vegetable\obj\Debug\netcoreapp3.0\06. Fruit or Vegetable.pdb

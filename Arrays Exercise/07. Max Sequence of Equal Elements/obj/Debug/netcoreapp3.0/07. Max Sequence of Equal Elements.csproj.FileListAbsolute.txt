@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.exe
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.deps.json
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.dll
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.pdb
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.dll
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.pdb

@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\bin\Debug\netcoreapp3.0\03. Sequence 2k+1.exe
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\bin\Debug\netcoreapp3.0\03. Sequence 2k+1.deps.json
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\bin\Debug\netcoreapp3.0\03. Sequence 2k+1.runtimeconfig.json
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\bin\Debug\netcoreapp3.0\03. Sequence 2k+1.runtimeconfig.dev.json
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\bin\Debug\netcoreapp3.0\03. Sequence 2k+1.dll
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\bin\Debug\netcoreapp3.0\03. Sequence 2k+1.pdb
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\obj\Debug\netcoreapp3.0\03. Sequence 2k+1.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\obj\Debug\netcoreapp3.0\03. Sequence 2k+1.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\obj\Debug\netcoreapp3.0\03. Sequence 2k+1.AssemblyInfo.cs
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\obj\Debug\netcoreapp3.0\03. Sequence 2k+1.dll
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\03. Sequence 2k+1\obj\Debug\netcoreapp3.0\03. Sequence 2k+1.pdb

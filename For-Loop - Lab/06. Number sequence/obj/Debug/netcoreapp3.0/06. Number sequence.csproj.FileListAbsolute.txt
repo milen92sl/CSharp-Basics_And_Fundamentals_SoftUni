@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\For-Loop - Lab\06. Number sequence\bin\Debug\netcoreapp3.0\06. Number sequence.exe
+C:\Users\N1\source\repos\For-Loop - Lab\06. Number sequence\bin\Debug\netcoreapp3.0\06. Number sequence.deps.json
+C:\Users\N1\source\repos\For-Loop - Lab\06. Number sequence\bin\Debug\netcoreapp3.0\06. Number sequence.runtimeconfig.json
+C:\Users\N1\source\repos\For-Loop - Lab\06. Number sequence\bin\Debug\netcoreapp3.0\06. Number sequence.runtimeconfig.dev.json
+C:\Users\N1\source\repos\For-Loop - Lab\06. Number sequence\bin\Debug\netcoreapp3.0\06. Number sequence.dll
+C:\Users\N1\source\repos\For-Loop - Lab\06. Number sequence\bin\Debug\netcoreapp3.0\06. Number sequence.pdb
+C:\Users\N1\source\repos\For-Loop - Lab\06. Number sequence\obj\Debug\netcoreapp3.0\06. Number sequence.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\For-Loop - Lab\06. Number sequence\obj\Debug\netcoreapp3.0\06. Number sequence.AssemblyInfo.cs
+C:\Users\N1\source\repos\For-Loop - Lab\06. Number sequence\obj\Debug\netcoreapp3.0\06. Number sequence.dll
+C:\Users\N1\source\repos\For-Loop - Lab\06. Number sequence\obj\Debug\netcoreapp3.0\06. Number sequence.pdb

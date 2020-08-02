@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\inches to sm\inches to sm\bin\Debug\netcoreapp3.0\inches to sm.exe
+C:\Users\N1\source\repos\inches to sm\inches to sm\bin\Debug\netcoreapp3.0\inches to sm.deps.json
+C:\Users\N1\source\repos\inches to sm\inches to sm\bin\Debug\netcoreapp3.0\inches to sm.runtimeconfig.json
+C:\Users\N1\source\repos\inches to sm\inches to sm\bin\Debug\netcoreapp3.0\inches to sm.runtimeconfig.dev.json
+C:\Users\N1\source\repos\inches to sm\inches to sm\bin\Debug\netcoreapp3.0\inches to sm.dll
+C:\Users\N1\source\repos\inches to sm\inches to sm\bin\Debug\netcoreapp3.0\inches to sm.pdb
+C:\Users\N1\source\repos\inches to sm\inches to sm\obj\Debug\netcoreapp3.0\inches to sm.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\inches to sm\inches to sm\obj\Debug\netcoreapp3.0\inches to sm.AssemblyInfo.cs
+C:\Users\N1\source\repos\inches to sm\inches to sm\obj\Debug\netcoreapp3.0\inches to sm.dll
+C:\Users\N1\source\repos\inches to sm\inches to sm\obj\Debug\netcoreapp3.0\inches to sm.pdb

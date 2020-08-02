@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\bin\Debug\netcoreapp3.0\04. Best Plane Tickets.exe
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\bin\Debug\netcoreapp3.0\04. Best Plane Tickets.deps.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\bin\Debug\netcoreapp3.0\04. Best Plane Tickets.runtimeconfig.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\bin\Debug\netcoreapp3.0\04. Best Plane Tickets.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\bin\Debug\netcoreapp3.0\04. Best Plane Tickets.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\bin\Debug\netcoreapp3.0\04. Best Plane Tickets.pdb
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\obj\Debug\netcoreapp3.0\04. Best Plane Tickets.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\obj\Debug\netcoreapp3.0\04. Best Plane Tickets.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\obj\Debug\netcoreapp3.0\04. Best Plane Tickets.AssemblyInfo.cs
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\obj\Debug\netcoreapp3.0\04. Best Plane Tickets.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\04. Best Plane Tickets\obj\Debug\netcoreapp3.0\04. Best Plane Tickets.pdb

@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.0\07. Concat Names.exe
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.0\07. Concat Names.deps.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.0\07. Concat Names.runtimeconfig.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.0\07. Concat Names.runtimeconfig.dev.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.0\07. Concat Names.dll
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\bin\Debug\netcoreapp3.0\07. Concat Names.pdb
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.0\07. Concat Names.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.0\07. Concat Names.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.0\07. Concat Names.AssemblyInfo.cs
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.0\07. Concat Names.dll
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\7. Concat Names\obj\Debug\netcoreapp3.0\07. Concat Names.pdb

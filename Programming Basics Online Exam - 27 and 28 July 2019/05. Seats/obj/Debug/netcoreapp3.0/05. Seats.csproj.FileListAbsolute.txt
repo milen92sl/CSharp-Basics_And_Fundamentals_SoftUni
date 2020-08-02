@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\obj\Debug\netcoreapp3.0\05. Seats.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\obj\Debug\netcoreapp3.0\05. Seats.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\obj\Debug\netcoreapp3.0\05. Seats.AssemblyInfo.cs
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\bin\Debug\netcoreapp3.0\05. Seats.exe
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\bin\Debug\netcoreapp3.0\05. Seats.deps.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\bin\Debug\netcoreapp3.0\05. Seats.runtimeconfig.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\bin\Debug\netcoreapp3.0\05. Seats.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\bin\Debug\netcoreapp3.0\05. Seats.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\bin\Debug\netcoreapp3.0\05. Seats.pdb
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\obj\Debug\netcoreapp3.0\05. Seats.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Seats\obj\Debug\netcoreapp3.0\05. Seats.pdb

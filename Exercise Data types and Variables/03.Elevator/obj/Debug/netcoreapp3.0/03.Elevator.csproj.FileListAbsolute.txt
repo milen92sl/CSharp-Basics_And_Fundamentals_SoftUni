@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\bin\Debug\netcoreapp3.0\03.Elevator.exe
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\bin\Debug\netcoreapp3.0\03.Elevator.deps.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\bin\Debug\netcoreapp3.0\03.Elevator.runtimeconfig.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\bin\Debug\netcoreapp3.0\03.Elevator.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\bin\Debug\netcoreapp3.0\03.Elevator.dll
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\bin\Debug\netcoreapp3.0\03.Elevator.pdb
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\obj\Debug\netcoreapp3.0\03.Elevator.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\obj\Debug\netcoreapp3.0\03.Elevator.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\obj\Debug\netcoreapp3.0\03.Elevator.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\obj\Debug\netcoreapp3.0\03.Elevator.dll
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\03.Elevator\obj\Debug\netcoreapp3.0\03.Elevator.pdb

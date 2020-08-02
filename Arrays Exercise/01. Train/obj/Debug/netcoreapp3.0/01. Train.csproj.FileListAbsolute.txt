@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.exe
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.deps.json
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.runtimeconfig.json
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.runtimeconfig.dev.json
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.dll
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\bin\Debug\netcoreapp3.0\01. Train.pdb
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\obj\Debug\netcoreapp3.0\01. Train.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\obj\Debug\netcoreapp3.0\01. Train.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\obj\Debug\netcoreapp3.0\01. Train.AssemblyInfo.cs
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\obj\Debug\netcoreapp3.0\01. Train.dll
+C:\Users\N1\source\repos\31.01.2020 Arrays Exercise\01. Train\obj\Debug\netcoreapp3.0\01. Train.pdb

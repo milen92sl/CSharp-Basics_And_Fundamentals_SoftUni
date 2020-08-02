@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\bin\Debug\netcoreapp3.0\02.exe
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\bin\Debug\netcoreapp3.0\02.deps.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\bin\Debug\netcoreapp3.0\02.runtimeconfig.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\bin\Debug\netcoreapp3.0\02.runtimeconfig.dev.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\bin\Debug\netcoreapp3.0\02.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\bin\Debug\netcoreapp3.0\02.pdb
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\obj\Debug\netcoreapp3.0\02.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\obj\Debug\netcoreapp3.0\02.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\obj\Debug\netcoreapp3.0\02.AssemblyInfo.cs
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\obj\Debug\netcoreapp3.0\02.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\02\obj\Debug\netcoreapp3.0\02.pdb

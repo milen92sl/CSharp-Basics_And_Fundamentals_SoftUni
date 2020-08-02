@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\bin\Debug\netcoreapp3.0\03. Inbox manager.exe
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\bin\Debug\netcoreapp3.0\03. Inbox manager.deps.json
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\bin\Debug\netcoreapp3.0\03. Inbox manager.runtimeconfig.json
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\bin\Debug\netcoreapp3.0\03. Inbox manager.runtimeconfig.dev.json
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\bin\Debug\netcoreapp3.0\03. Inbox manager.dll
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\bin\Debug\netcoreapp3.0\03. Inbox manager.pdb
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\obj\Debug\netcoreapp3.0\03. Inbox manager.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\obj\Debug\netcoreapp3.0\03. Inbox manager.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\obj\Debug\netcoreapp3.0\03. Inbox manager.AssemblyInfo.cs
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\obj\Debug\netcoreapp3.0\03. Inbox manager.dll
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\03. Inbox manager\obj\Debug\netcoreapp3.0\03. Inbox manager.pdb

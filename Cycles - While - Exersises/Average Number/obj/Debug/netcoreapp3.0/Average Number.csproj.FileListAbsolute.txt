@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Average Number\bin\Debug\netcoreapp3.0\Average Number.exe
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Average Number\bin\Debug\netcoreapp3.0\Average Number.deps.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Average Number\bin\Debug\netcoreapp3.0\Average Number.runtimeconfig.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Average Number\bin\Debug\netcoreapp3.0\Average Number.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Average Number\bin\Debug\netcoreapp3.0\Average Number.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Average Number\bin\Debug\netcoreapp3.0\Average Number.pdb
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Average Number\obj\Debug\netcoreapp3.0\Average Number.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Average Number\obj\Debug\netcoreapp3.0\Average Number.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Average Number\obj\Debug\netcoreapp3.0\Average Number.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Average Number\obj\Debug\netcoreapp3.0\Average Number.pdb

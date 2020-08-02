@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\bin\Debug\netcoreapp3.0\6.Extract Emails.exe
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\bin\Debug\netcoreapp3.0\6.Extract Emails.deps.json
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\bin\Debug\netcoreapp3.0\6.Extract Emails.runtimeconfig.json
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\bin\Debug\netcoreapp3.0\6.Extract Emails.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\bin\Debug\netcoreapp3.0\6.Extract Emails.dll
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\bin\Debug\netcoreapp3.0\6.Extract Emails.pdb
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\obj\Debug\netcoreapp3.0\6.Extract Emails.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\obj\Debug\netcoreapp3.0\6.Extract Emails.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\obj\Debug\netcoreapp3.0\6.Extract Emails.AssemblyInfo.cs
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\obj\Debug\netcoreapp3.0\6.Extract Emails.dll
+C:\Users\N1\source\repos\Regular Expression EXERCISE\6.Extract Emails\obj\Debug\netcoreapp3.0\6.Extract Emails.pdb

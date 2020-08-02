@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\bin\Debug\netcoreapp3.0\08.Tickets for Cinema.exe
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\bin\Debug\netcoreapp3.0\08.Tickets for Cinema.deps.json
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\bin\Debug\netcoreapp3.0\08.Tickets for Cinema.runtimeconfig.json
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\bin\Debug\netcoreapp3.0\08.Tickets for Cinema.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\bin\Debug\netcoreapp3.0\08.Tickets for Cinema.dll
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\bin\Debug\netcoreapp3.0\08.Tickets for Cinema.pdb
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\obj\Debug\netcoreapp3.0\08.Tickets for Cinema.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\obj\Debug\netcoreapp3.0\08.Tickets for Cinema.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\obj\Debug\netcoreapp3.0\08.Tickets for Cinema.AssemblyInfo.cs
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\obj\Debug\netcoreapp3.0\08.Tickets for Cinema.dll
+C:\Users\N1\source\repos\Nested Loops - Lab\08.Tickets for Cinema\obj\Debug\netcoreapp3.0\08.Tickets for Cinema.pdb

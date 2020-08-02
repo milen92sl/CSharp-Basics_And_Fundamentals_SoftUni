@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\Squareofstars\Squareofstars\obj\Debug\netcoreapp3.0\Squareofstars.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Squareofstars\Squareofstars\obj\Debug\netcoreapp3.0\Squareofstars.AssemblyInfo.cs
+C:\Users\N1\source\repos\Squareofstars\Squareofstars\bin\Debug\netcoreapp3.0\Squareofstars.exe
+C:\Users\N1\source\repos\Squareofstars\Squareofstars\bin\Debug\netcoreapp3.0\Squareofstars.deps.json
+C:\Users\N1\source\repos\Squareofstars\Squareofstars\bin\Debug\netcoreapp3.0\Squareofstars.runtimeconfig.json
+C:\Users\N1\source\repos\Squareofstars\Squareofstars\bin\Debug\netcoreapp3.0\Squareofstars.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Squareofstars\Squareofstars\bin\Debug\netcoreapp3.0\Squareofstars.dll
+C:\Users\N1\source\repos\Squareofstars\Squareofstars\bin\Debug\netcoreapp3.0\Squareofstars.pdb
+C:\Users\N1\source\repos\Squareofstars\Squareofstars\obj\Debug\netcoreapp3.0\Squareofstars.dll
+C:\Users\N1\source\repos\Squareofstars\Squareofstars\obj\Debug\netcoreapp3.0\Squareofstars.pdb

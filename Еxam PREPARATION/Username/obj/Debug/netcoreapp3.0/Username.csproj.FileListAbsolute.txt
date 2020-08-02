@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\bin\Debug\netcoreapp3.0\Username.exe
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\bin\Debug\netcoreapp3.0\Username.deps.json
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\bin\Debug\netcoreapp3.0\Username.runtimeconfig.json
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\bin\Debug\netcoreapp3.0\Username.runtimeconfig.dev.json
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\bin\Debug\netcoreapp3.0\Username.dll
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\bin\Debug\netcoreapp3.0\Username.pdb
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\obj\Debug\netcoreapp3.0\Username.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\obj\Debug\netcoreapp3.0\Username.AssemblyInfo.cs
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\obj\Debug\netcoreapp3.0\Username.dll
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\obj\Debug\netcoreapp3.0\Username.pdb
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\Username\obj\Debug\netcoreapp3.0\Username.csprojAssemblyReference.cache

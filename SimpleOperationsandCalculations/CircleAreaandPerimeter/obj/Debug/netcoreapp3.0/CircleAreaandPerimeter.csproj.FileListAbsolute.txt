@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\bin\Debug\netcoreapp3.0\CircleAreaandPerimeter.exe
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\bin\Debug\netcoreapp3.0\CircleAreaandPerimeter.deps.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\bin\Debug\netcoreapp3.0\CircleAreaandPerimeter.runtimeconfig.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\bin\Debug\netcoreapp3.0\CircleAreaandPerimeter.runtimeconfig.dev.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\bin\Debug\netcoreapp3.0\CircleAreaandPerimeter.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\bin\Debug\netcoreapp3.0\CircleAreaandPerimeter.pdb
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\obj\Debug\netcoreapp3.0\CircleAreaandPerimeter.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\obj\Debug\netcoreapp3.0\CircleAreaandPerimeter.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\obj\Debug\netcoreapp3.0\CircleAreaandPerimeter.AssemblyInfo.cs
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\obj\Debug\netcoreapp3.0\CircleAreaandPerimeter.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculations\CircleAreaandPerimeter\obj\Debug\netcoreapp3.0\CircleAreaandPerimeter.pdb

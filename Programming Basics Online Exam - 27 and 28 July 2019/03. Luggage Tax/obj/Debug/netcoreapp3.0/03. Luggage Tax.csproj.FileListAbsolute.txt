@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\obj\Debug\netcoreapp3.0\03. Luggage Tax.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\obj\Debug\netcoreapp3.0\03. Luggage Tax.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\obj\Debug\netcoreapp3.0\03. Luggage Tax.AssemblyInfo.cs
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\bin\Debug\netcoreapp3.0\03. Luggage Tax.exe
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\bin\Debug\netcoreapp3.0\03. Luggage Tax.deps.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\bin\Debug\netcoreapp3.0\03. Luggage Tax.runtimeconfig.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\bin\Debug\netcoreapp3.0\03. Luggage Tax.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\bin\Debug\netcoreapp3.0\03. Luggage Tax.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\bin\Debug\netcoreapp3.0\03. Luggage Tax.pdb
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\obj\Debug\netcoreapp3.0\03. Luggage Tax.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Luggage Tax\obj\Debug\netcoreapp3.0\03. Luggage Tax.pdb

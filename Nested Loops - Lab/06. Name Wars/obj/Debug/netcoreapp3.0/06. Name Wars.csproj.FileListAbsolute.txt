@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\Nested Loops - Lab\06. Name Wars\bin\Debug\netcoreapp3.0\06. Name Wars.exe
+C:\Users\N1\source\repos\Nested Loops - Lab\06. Name Wars\bin\Debug\netcoreapp3.0\06. Name Wars.deps.json
+C:\Users\N1\source\repos\Nested Loops - Lab\06. Name Wars\bin\Debug\netcoreapp3.0\06. Name Wars.runtimeconfig.json
+C:\Users\N1\source\repos\Nested Loops - Lab\06. Name Wars\bin\Debug\netcoreapp3.0\06. Name Wars.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Nested Loops - Lab\06. Name Wars\bin\Debug\netcoreapp3.0\06. Name Wars.dll
+C:\Users\N1\source\repos\Nested Loops - Lab\06. Name Wars\bin\Debug\netcoreapp3.0\06. Name Wars.pdb
+C:\Users\N1\source\repos\Nested Loops - Lab\06. Name Wars\obj\Debug\netcoreapp3.0\06. Name Wars.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Nested Loops - Lab\06. Name Wars\obj\Debug\netcoreapp3.0\06. Name Wars.AssemblyInfo.cs
+C:\Users\N1\source\repos\Nested Loops - Lab\06. Name Wars\obj\Debug\netcoreapp3.0\06. Name Wars.dll
+C:\Users\N1\source\repos\Nested Loops - Lab\06. Name Wars\obj\Debug\netcoreapp3.0\06. Name Wars.pdb

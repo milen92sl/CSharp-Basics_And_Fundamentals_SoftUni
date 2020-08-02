@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\bin\Debug\netcoreapp3.0\03. Cruise Ship.exe
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\bin\Debug\netcoreapp3.0\03. Cruise Ship.deps.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\bin\Debug\netcoreapp3.0\03. Cruise Ship.runtimeconfig.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\bin\Debug\netcoreapp3.0\03. Cruise Ship.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\bin\Debug\netcoreapp3.0\03. Cruise Ship.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\bin\Debug\netcoreapp3.0\03. Cruise Ship.pdb
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\obj\Debug\netcoreapp3.0\03. Cruise Ship.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\obj\Debug\netcoreapp3.0\03. Cruise Ship.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\obj\Debug\netcoreapp3.0\03. Cruise Ship.AssemblyInfo.cs
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\obj\Debug\netcoreapp3.0\03. Cruise Ship.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\03. Cruise Ship\obj\Debug\netcoreapp3.0\03. Cruise Ship.pdb

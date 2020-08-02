@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\26.02 Exam Preparation\04\bin\Debug\netcoreapp3.0\04 Biscuits Factory.exe
+C:\Users\N1\source\repos\26.02 Exam Preparation\04\bin\Debug\netcoreapp3.0\04 Biscuits Factory.deps.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\04\bin\Debug\netcoreapp3.0\04 Biscuits Factory.runtimeconfig.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\04\bin\Debug\netcoreapp3.0\04 Biscuits Factory.runtimeconfig.dev.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\04\bin\Debug\netcoreapp3.0\04 Biscuits Factory.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\04\bin\Debug\netcoreapp3.0\04 Biscuits Factory.pdb
+C:\Users\N1\source\repos\26.02 Exam Preparation\04\obj\Debug\netcoreapp3.0\04 Biscuits Factory.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\04\obj\Debug\netcoreapp3.0\04 Biscuits Factory.AssemblyInfo.cs
+C:\Users\N1\source\repos\26.02 Exam Preparation\04\obj\Debug\netcoreapp3.0\04 Biscuits Factory.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\04\obj\Debug\netcoreapp3.0\04 Biscuits Factory.pdb

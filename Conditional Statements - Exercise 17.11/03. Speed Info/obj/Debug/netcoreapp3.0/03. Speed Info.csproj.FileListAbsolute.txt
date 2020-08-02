@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\bin\Debug\netcoreapp3.0\03. Speed Info.exe
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\bin\Debug\netcoreapp3.0\03. Speed Info.deps.json
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\bin\Debug\netcoreapp3.0\03. Speed Info.runtimeconfig.json
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\bin\Debug\netcoreapp3.0\03. Speed Info.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\bin\Debug\netcoreapp3.0\03. Speed Info.dll
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\bin\Debug\netcoreapp3.0\03. Speed Info.pdb
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\obj\Debug\netcoreapp3.0\03. Speed Info.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\obj\Debug\netcoreapp3.0\03. Speed Info.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\obj\Debug\netcoreapp3.0\03. Speed Info.AssemblyInfo.cs
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\obj\Debug\netcoreapp3.0\03. Speed Info.dll
+C:\Users\N1\source\repos\Conditional Statements - Exercise 17.11\03. Speed Info\obj\Debug\netcoreapp3.0\03. Speed Info.pdb

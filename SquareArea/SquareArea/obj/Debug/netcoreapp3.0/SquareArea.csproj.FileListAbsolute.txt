@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\SquareArea\SquareArea\bin\Debug\netcoreapp3.0\SquareArea.exe
+C:\Users\N1\source\repos\SquareArea\SquareArea\bin\Debug\netcoreapp3.0\SquareArea.deps.json
+C:\Users\N1\source\repos\SquareArea\SquareArea\bin\Debug\netcoreapp3.0\SquareArea.runtimeconfig.json
+C:\Users\N1\source\repos\SquareArea\SquareArea\bin\Debug\netcoreapp3.0\SquareArea.runtimeconfig.dev.json
+C:\Users\N1\source\repos\SquareArea\SquareArea\bin\Debug\netcoreapp3.0\SquareArea.dll
+C:\Users\N1\source\repos\SquareArea\SquareArea\bin\Debug\netcoreapp3.0\SquareArea.pdb
+C:\Users\N1\source\repos\SquareArea\SquareArea\obj\Debug\netcoreapp3.0\SquareArea.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\SquareArea\SquareArea\obj\Debug\netcoreapp3.0\SquareArea.AssemblyInfo.cs
+C:\Users\N1\source\repos\SquareArea\SquareArea\obj\Debug\netcoreapp3.0\SquareArea.dll
+C:\Users\N1\source\repos\SquareArea\SquareArea\obj\Debug\netcoreapp3.0\SquareArea.pdb

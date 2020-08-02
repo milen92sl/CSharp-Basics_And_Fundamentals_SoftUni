@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.0\10. Lower or Upper.exe
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.0\10. Lower or Upper.deps.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.0\10. Lower or Upper.runtimeconfig.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.0\10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.0\10. Lower or Upper.dll
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.0\10. Lower or Upper.pdb
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.0\10. Lower or Upper.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.0\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.0\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.0\10. Lower or Upper.dll
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.0\10. Lower or Upper.pdb

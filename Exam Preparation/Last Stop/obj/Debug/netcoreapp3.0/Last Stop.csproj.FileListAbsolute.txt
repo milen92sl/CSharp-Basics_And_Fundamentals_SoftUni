@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\bin\Debug\netcoreapp3.0\Last Stop.exe
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\bin\Debug\netcoreapp3.0\Last Stop.deps.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\bin\Debug\netcoreapp3.0\Last Stop.runtimeconfig.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\bin\Debug\netcoreapp3.0\Last Stop.runtimeconfig.dev.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\bin\Debug\netcoreapp3.0\Last Stop.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\bin\Debug\netcoreapp3.0\Last Stop.pdb
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\obj\Debug\netcoreapp3.0\Last Stop.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\obj\Debug\netcoreapp3.0\Last Stop.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\obj\Debug\netcoreapp3.0\Last Stop.AssemblyInfo.cs
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\obj\Debug\netcoreapp3.0\Last Stop.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\Last Stop\obj\Debug\netcoreapp3.0\Last Stop.pdb

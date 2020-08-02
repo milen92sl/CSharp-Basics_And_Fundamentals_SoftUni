@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\bin\Debug\netcoreapp3.0\05Weaponsmith.exe
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\bin\Debug\netcoreapp3.0\05Weaponsmith.deps.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\bin\Debug\netcoreapp3.0\05Weaponsmith.runtimeconfig.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\bin\Debug\netcoreapp3.0\05Weaponsmith.runtimeconfig.dev.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\bin\Debug\netcoreapp3.0\05Weaponsmith.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\bin\Debug\netcoreapp3.0\05Weaponsmith.pdb
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\obj\Debug\netcoreapp3.0\05Weaponsmith.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\obj\Debug\netcoreapp3.0\05Weaponsmith.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\obj\Debug\netcoreapp3.0\05Weaponsmith.AssemblyInfo.cs
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\obj\Debug\netcoreapp3.0\05Weaponsmith.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\05\obj\Debug\netcoreapp3.0\05Weaponsmith.pdb

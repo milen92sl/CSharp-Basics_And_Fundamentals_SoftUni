@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\Triangle55stars\Triangle55stars\bin\Debug\netcoreapp3.0\Triangle55stars.exe
+C:\Users\N1\source\repos\Triangle55stars\Triangle55stars\bin\Debug\netcoreapp3.0\Triangle55stars.deps.json
+C:\Users\N1\source\repos\Triangle55stars\Triangle55stars\bin\Debug\netcoreapp3.0\Triangle55stars.runtimeconfig.json
+C:\Users\N1\source\repos\Triangle55stars\Triangle55stars\bin\Debug\netcoreapp3.0\Triangle55stars.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Triangle55stars\Triangle55stars\bin\Debug\netcoreapp3.0\Triangle55stars.dll
+C:\Users\N1\source\repos\Triangle55stars\Triangle55stars\bin\Debug\netcoreapp3.0\Triangle55stars.pdb
+C:\Users\N1\source\repos\Triangle55stars\Triangle55stars\obj\Debug\netcoreapp3.0\Triangle55stars.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Triangle55stars\Triangle55stars\obj\Debug\netcoreapp3.0\Triangle55stars.AssemblyInfo.cs
+C:\Users\N1\source\repos\Triangle55stars\Triangle55stars\obj\Debug\netcoreapp3.0\Triangle55stars.dll
+C:\Users\N1\source\repos\Triangle55stars\Triangle55stars\obj\Debug\netcoreapp3.0\Triangle55stars.pdb

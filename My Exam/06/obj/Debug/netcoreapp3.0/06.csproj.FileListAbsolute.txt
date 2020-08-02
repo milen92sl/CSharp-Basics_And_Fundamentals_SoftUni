@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Мой изпит\06\bin\Debug\netcoreapp3.0\06.exe
+C:\Users\N1\source\repos\Мой изпит\06\bin\Debug\netcoreapp3.0\06.deps.json
+C:\Users\N1\source\repos\Мой изпит\06\bin\Debug\netcoreapp3.0\06.runtimeconfig.json
+C:\Users\N1\source\repos\Мой изпит\06\bin\Debug\netcoreapp3.0\06.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Мой изпит\06\bin\Debug\netcoreapp3.0\06.dll
+C:\Users\N1\source\repos\Мой изпит\06\bin\Debug\netcoreapp3.0\06.pdb
+C:\Users\N1\source\repos\Мой изпит\06\obj\Debug\netcoreapp3.0\06.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Мой изпит\06\obj\Debug\netcoreapp3.0\06.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Мой изпит\06\obj\Debug\netcoreapp3.0\06.AssemblyInfo.cs
+C:\Users\N1\source\repos\Мой изпит\06\obj\Debug\netcoreapp3.0\06.dll
+C:\Users\N1\source\repos\Мой изпит\06\obj\Debug\netcoreapp3.0\06.pdb

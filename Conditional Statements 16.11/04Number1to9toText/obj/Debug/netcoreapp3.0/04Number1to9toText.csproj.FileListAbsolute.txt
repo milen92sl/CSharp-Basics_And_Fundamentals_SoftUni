@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\obj\Debug\netcoreapp3.0\04Number1to9toText.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\obj\Debug\netcoreapp3.0\04Number1to9toText.AssemblyInfo.cs
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\bin\Debug\netcoreapp3.0\04Number1to9toText.exe
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\bin\Debug\netcoreapp3.0\04Number1to9toText.deps.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\bin\Debug\netcoreapp3.0\04Number1to9toText.runtimeconfig.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\bin\Debug\netcoreapp3.0\04Number1to9toText.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\bin\Debug\netcoreapp3.0\04Number1to9toText.dll
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\bin\Debug\netcoreapp3.0\04Number1to9toText.pdb
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\obj\Debug\netcoreapp3.0\04Number1to9toText.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\obj\Debug\netcoreapp3.0\04Number1to9toText.dll
+C:\Users\N1\source\repos\Conditional Statements 16.11\04Number1to9toText\obj\Debug\netcoreapp3.0\04Number1to9toText.pdb

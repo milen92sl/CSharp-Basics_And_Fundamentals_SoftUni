@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\bin\Debug\netcoreapp3.0\07.Order by Age.exe
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\bin\Debug\netcoreapp3.0\07.Order by Age.deps.json
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\bin\Debug\netcoreapp3.0\07.Order by Age.runtimeconfig.json
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\bin\Debug\netcoreapp3.0\07.Order by Age.runtimeconfig.dev.json
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\bin\Debug\netcoreapp3.0\07.Order by Age.dll
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\bin\Debug\netcoreapp3.0\07.Order by Age.pdb
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\obj\Debug\netcoreapp3.0\07.Order by Age.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\obj\Debug\netcoreapp3.0\07.Order by Age.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\obj\Debug\netcoreapp3.0\07.Order by Age.AssemblyInfo.cs
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\obj\Debug\netcoreapp3.0\07.Order by Age.dll
+C:\Users\N1\source\repos\21.02.Objects and Classes - Exercise\07.Order by Age\obj\Debug\netcoreapp3.0\07.Order by Age.pdb

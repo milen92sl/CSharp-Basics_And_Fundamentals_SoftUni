@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\bin\Debug\netcoreapp3.0\01.Day of week.exe
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\bin\Debug\netcoreapp3.0\01.Day of week.deps.json
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\bin\Debug\netcoreapp3.0\01.Day of week.runtimeconfig.json
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\bin\Debug\netcoreapp3.0\01.Day of week.runtimeconfig.dev.json
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\bin\Debug\netcoreapp3.0\01.Day of week.dll
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\bin\Debug\netcoreapp3.0\01.Day of week.pdb
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\obj\Debug\netcoreapp3.0\01.Day of week.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\obj\Debug\netcoreapp3.0\01.Day of week.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\obj\Debug\netcoreapp3.0\01.Day of week.AssemblyInfo.cs
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\obj\Debug\netcoreapp3.0\01.Day of week.dll
+C:\Users\N1\source\repos\29.01.2020 Arrays Lab\01.Day of week\obj\Debug\netcoreapp3.0\01.Day of week.pdb

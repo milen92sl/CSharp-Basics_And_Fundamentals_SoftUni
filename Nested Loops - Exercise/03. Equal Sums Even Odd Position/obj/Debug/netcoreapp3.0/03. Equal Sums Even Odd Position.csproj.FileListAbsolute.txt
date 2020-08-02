@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.exe
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.deps.json
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.dll
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.pdb
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.dll
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\03. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.0\03. Equal Sums Even Odd Position.pdb

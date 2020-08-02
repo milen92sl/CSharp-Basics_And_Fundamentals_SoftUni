@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.exe
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.deps.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.runtimeconfig.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.dll
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.pdb
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\obj\Debug\netcoreapp3.0\01. Integer Operations.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\obj\Debug\netcoreapp3.0\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\obj\Debug\netcoreapp3.0\01. Integer Operations.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\obj\Debug\netcoreapp3.0\01. Integer Operations.dll
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\01. Integer Operations\obj\Debug\netcoreapp3.0\01. Integer Operations.pdb

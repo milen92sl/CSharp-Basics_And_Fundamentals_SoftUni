@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.exe
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.deps.json
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.runtimeconfig.json
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.dll
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.pdb
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\obj\Debug\netcoreapp3.0\05. Word Filter.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\obj\Debug\netcoreapp3.0\05. Word Filter.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\obj\Debug\netcoreapp3.0\05. Word Filter.AssemblyInfo.cs
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\obj\Debug\netcoreapp3.0\05. Word Filter.dll
+C:\Users\N1\source\repos\Associative Arrays LAB\05. Word Filter\obj\Debug\netcoreapp3.0\05. Word Filter.pdb

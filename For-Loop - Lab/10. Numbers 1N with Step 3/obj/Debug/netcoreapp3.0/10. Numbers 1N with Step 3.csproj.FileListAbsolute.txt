@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\For-Loop - Lab\10. Numbers 1N with Step 3\bin\Debug\netcoreapp3.0\10. Numbers 1N with Step 3.exe
+C:\Users\N1\source\repos\For-Loop - Lab\10. Numbers 1N with Step 3\bin\Debug\netcoreapp3.0\10. Numbers 1N with Step 3.deps.json
+C:\Users\N1\source\repos\For-Loop - Lab\10. Numbers 1N with Step 3\bin\Debug\netcoreapp3.0\10. Numbers 1N with Step 3.runtimeconfig.json
+C:\Users\N1\source\repos\For-Loop - Lab\10. Numbers 1N with Step 3\bin\Debug\netcoreapp3.0\10. Numbers 1N with Step 3.runtimeconfig.dev.json
+C:\Users\N1\source\repos\For-Loop - Lab\10. Numbers 1N with Step 3\bin\Debug\netcoreapp3.0\10. Numbers 1N with Step 3.dll
+C:\Users\N1\source\repos\For-Loop - Lab\10. Numbers 1N with Step 3\bin\Debug\netcoreapp3.0\10. Numbers 1N with Step 3.pdb
+C:\Users\N1\source\repos\For-Loop - Lab\10. Numbers 1N with Step 3\obj\Debug\netcoreapp3.0\10. Numbers 1N with Step 3.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\For-Loop - Lab\10. Numbers 1N with Step 3\obj\Debug\netcoreapp3.0\10. Numbers 1N with Step 3.AssemblyInfo.cs
+C:\Users\N1\source\repos\For-Loop - Lab\10. Numbers 1N with Step 3\obj\Debug\netcoreapp3.0\10. Numbers 1N with Step 3.dll
+C:\Users\N1\source\repos\For-Loop - Lab\10. Numbers 1N with Step 3\obj\Debug\netcoreapp3.0\10. Numbers 1N with Step 3.pdb

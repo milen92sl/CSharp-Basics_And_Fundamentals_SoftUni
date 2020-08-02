@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\07. Special Numbers\bin\Debug\netcoreapp3.0\07. Special Numbers.exe
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\07. Special Numbers\bin\Debug\netcoreapp3.0\07. Special Numbers.deps.json
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\07. Special Numbers\bin\Debug\netcoreapp3.0\07. Special Numbers.runtimeconfig.json
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\07. Special Numbers\bin\Debug\netcoreapp3.0\07. Special Numbers.runtimeconfig.dev.json
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\07. Special Numbers\bin\Debug\netcoreapp3.0\07. Special Numbers.dll
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\07. Special Numbers\bin\Debug\netcoreapp3.0\07. Special Numbers.pdb
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\07. Special Numbers\obj\Debug\netcoreapp3.0\07. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\07. Special Numbers\obj\Debug\netcoreapp3.0\07. Special Numbers.AssemblyInfo.cs
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\07. Special Numbers\obj\Debug\netcoreapp3.0\07. Special Numbers.dll
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\07. Special Numbers\obj\Debug\netcoreapp3.0\07. Special Numbers.pdb

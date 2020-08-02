@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\bin\Debug\netcoreapp3.0\06. Christmas Decoration.exe
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\bin\Debug\netcoreapp3.0\06. Christmas Decoration.deps.json
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\bin\Debug\netcoreapp3.0\06. Christmas Decoration.runtimeconfig.json
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\bin\Debug\netcoreapp3.0\06. Christmas Decoration.runtimeconfig.dev.json
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\bin\Debug\netcoreapp3.0\06. Christmas Decoration.dll
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\bin\Debug\netcoreapp3.0\06. Christmas Decoration.pdb
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\obj\Debug\netcoreapp3.0\06. Christmas Decoration.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\obj\Debug\netcoreapp3.0\06. Christmas Decoration.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\obj\Debug\netcoreapp3.0\06. Christmas Decoration.AssemblyInfo.cs
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\obj\Debug\netcoreapp3.0\06. Christmas Decoration.dll
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp5\obj\Debug\netcoreapp3.0\06. Christmas Decoration.pdb

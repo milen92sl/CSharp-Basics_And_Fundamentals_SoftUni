@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.exe
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.deps.json
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.runtimeconfig.json
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.dll
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.pdb
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\obj\Debug\netcoreapp3.0\04. Caesar Cipher.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\obj\Debug\netcoreapp3.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\obj\Debug\netcoreapp3.0\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\obj\Debug\netcoreapp3.0\04. Caesar Cipher.dll
+C:\Users\N1\source\repos\Text Processing EXERCISE\04. Caesar Cipher\obj\Debug\netcoreapp3.0\04. Caesar Cipher.pdb

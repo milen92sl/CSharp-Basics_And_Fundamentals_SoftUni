@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.exe
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.deps.json
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.runtimeconfig.json
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.runtimeconfig.dev.json
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.dll
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.pdb
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.0\10. Rage Expenses.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.0\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.0\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.0\10. Rage Expenses.dll
+C:\Users\N1\source\repos\17.01.2020 Basic syntax Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.0\10. Rage Expenses.pdb

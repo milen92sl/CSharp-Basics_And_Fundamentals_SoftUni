@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\bin\Debug\netcoreapp3.0\03. Odd Even Position.exe
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\bin\Debug\netcoreapp3.0\03. Odd Even Position.deps.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\bin\Debug\netcoreapp3.0\03. Odd Even Position.runtimeconfig.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\bin\Debug\netcoreapp3.0\03. Odd Even Position.runtimeconfig.dev.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\bin\Debug\netcoreapp3.0\03. Odd Even Position.dll
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\bin\Debug\netcoreapp3.0\03. Odd Even Position.pdb
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\obj\Debug\netcoreapp3.0\03. Odd Even Position.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\obj\Debug\netcoreapp3.0\03. Odd Even Position.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\obj\Debug\netcoreapp3.0\03. Odd Even Position.AssemblyInfo.cs
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\obj\Debug\netcoreapp3.0\03. Odd Even Position.dll
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\03. Odd Even Position\obj\Debug\netcoreapp3.0\03. Odd Even Position.pdb

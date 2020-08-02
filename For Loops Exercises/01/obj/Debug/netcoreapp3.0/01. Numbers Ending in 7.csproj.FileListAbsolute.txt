@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\bin\Debug\netcoreapp3.0\01. Numbers Ending in 7.exe
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\bin\Debug\netcoreapp3.0\01. Numbers Ending in 7.deps.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\bin\Debug\netcoreapp3.0\01. Numbers Ending in 7.runtimeconfig.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\bin\Debug\netcoreapp3.0\01. Numbers Ending in 7.runtimeconfig.dev.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\bin\Debug\netcoreapp3.0\01. Numbers Ending in 7.dll
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\bin\Debug\netcoreapp3.0\01. Numbers Ending in 7.pdb
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\obj\Debug\netcoreapp3.0\01. Numbers Ending in 7.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\obj\Debug\netcoreapp3.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\obj\Debug\netcoreapp3.0\01. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\obj\Debug\netcoreapp3.0\01. Numbers Ending in 7.dll
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\01\obj\Debug\netcoreapp3.0\01. Numbers Ending in 7.pdb

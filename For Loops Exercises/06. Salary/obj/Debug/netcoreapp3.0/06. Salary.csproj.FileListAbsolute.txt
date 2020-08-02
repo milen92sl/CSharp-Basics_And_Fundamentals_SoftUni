@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\06. Salary\bin\Debug\netcoreapp3.0\06. Salary.exe
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\06. Salary\bin\Debug\netcoreapp3.0\06. Salary.deps.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\06. Salary\bin\Debug\netcoreapp3.0\06. Salary.runtimeconfig.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\06. Salary\bin\Debug\netcoreapp3.0\06. Salary.runtimeconfig.dev.json
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\06. Salary\bin\Debug\netcoreapp3.0\06. Salary.dll
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\06. Salary\bin\Debug\netcoreapp3.0\06. Salary.pdb
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\06. Salary\obj\Debug\netcoreapp3.0\06. Salary.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\06. Salary\obj\Debug\netcoreapp3.0\06. Salary.AssemblyInfo.cs
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\06. Salary\obj\Debug\netcoreapp3.0\06. Salary.dll
+C:\Users\N1\source\repos\01.12.2019 For Loops Exercises\06. Salary\obj\Debug\netcoreapp3.0\06. Salary.pdb

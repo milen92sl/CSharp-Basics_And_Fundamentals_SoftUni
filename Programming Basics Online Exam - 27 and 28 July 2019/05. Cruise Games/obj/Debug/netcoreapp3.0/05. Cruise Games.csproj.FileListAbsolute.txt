@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\bin\Debug\netcoreapp3.0\05. Cruise Games.exe
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\bin\Debug\netcoreapp3.0\05. Cruise Games.deps.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\bin\Debug\netcoreapp3.0\05. Cruise Games.runtimeconfig.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\bin\Debug\netcoreapp3.0\05. Cruise Games.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\bin\Debug\netcoreapp3.0\05. Cruise Games.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\bin\Debug\netcoreapp3.0\05. Cruise Games.pdb
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\obj\Debug\netcoreapp3.0\05. Cruise Games.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\obj\Debug\netcoreapp3.0\05. Cruise Games.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\obj\Debug\netcoreapp3.0\05. Cruise Games.AssemblyInfo.cs
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\obj\Debug\netcoreapp3.0\05. Cruise Games.dll
+C:\Users\N1\source\repos\Programming Basics Online Exam - 27 and 28 July 2019\05. Cruise Games\obj\Debug\netcoreapp3.0\05. Cruise Games.pdb

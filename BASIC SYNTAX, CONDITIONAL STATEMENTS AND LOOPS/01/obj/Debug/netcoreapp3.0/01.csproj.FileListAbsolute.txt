@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\bin\Debug\netcoreapp3.0\01.exe
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\bin\Debug\netcoreapp3.0\01.deps.json
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\bin\Debug\netcoreapp3.0\01.runtimeconfig.json
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\bin\Debug\netcoreapp3.0\01.runtimeconfig.dev.json
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\bin\Debug\netcoreapp3.0\01.dll
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\bin\Debug\netcoreapp3.0\01.pdb
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\obj\Debug\netcoreapp3.0\01.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\obj\Debug\netcoreapp3.0\01.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\obj\Debug\netcoreapp3.0\01.AssemblyInfo.cs
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\obj\Debug\netcoreapp3.0\01.dll
+C:\Users\N1\source\repos\15.01.2020 BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\01\obj\Debug\netcoreapp3.0\01.pdb

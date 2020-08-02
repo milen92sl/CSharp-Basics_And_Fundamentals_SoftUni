@@ -1,0 +1,2 @@
+C:\Users\N1\source\repos\For-Loop - Lab\04. Vowels Sum\obj\Debug\netcoreapp3.0\04. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\For-Loop - Lab\04. Vowels Sum\obj\Debug\netcoreapp3.0\04. Vowels Sum.AssemblyInfo.cs

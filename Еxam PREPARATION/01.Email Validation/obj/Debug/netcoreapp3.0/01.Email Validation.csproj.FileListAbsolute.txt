@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\bin\Debug\netcoreapp3.0\01.Email Validation.exe
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\bin\Debug\netcoreapp3.0\01.Email Validation.deps.json
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\bin\Debug\netcoreapp3.0\01.Email Validation.runtimeconfig.json
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\bin\Debug\netcoreapp3.0\01.Email Validation.runtimeconfig.dev.json
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\bin\Debug\netcoreapp3.0\01.Email Validation.dll
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\bin\Debug\netcoreapp3.0\01.Email Validation.pdb
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\obj\Debug\netcoreapp3.0\01.Email Validation.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\obj\Debug\netcoreapp3.0\01.Email Validation.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\obj\Debug\netcoreapp3.0\01.Email Validation.AssemblyInfo.cs
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\obj\Debug\netcoreapp3.0\01.Email Validation.dll
+C:\Users\N1\source\repos\25.03. Еxam PREPARATION\01.Email Validation\obj\Debug\netcoreapp3.0\01.Email Validation.pdb

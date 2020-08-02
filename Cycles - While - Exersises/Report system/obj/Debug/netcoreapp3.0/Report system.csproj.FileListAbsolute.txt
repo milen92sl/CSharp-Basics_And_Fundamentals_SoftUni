@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\bin\Debug\netcoreapp3.0\Report system.exe
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\bin\Debug\netcoreapp3.0\Report system.deps.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\bin\Debug\netcoreapp3.0\Report system.runtimeconfig.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\bin\Debug\netcoreapp3.0\Report system.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\bin\Debug\netcoreapp3.0\Report system.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\bin\Debug\netcoreapp3.0\Report system.pdb
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\obj\Debug\netcoreapp3.0\Report system.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\obj\Debug\netcoreapp3.0\Report system.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\obj\Debug\netcoreapp3.0\Report system.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\obj\Debug\netcoreapp3.0\Report system.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\Report system\obj\Debug\netcoreapp3.0\Report system.pdb

@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.exe
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.deps.json
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.runtimeconfig.json
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.runtimeconfig.dev.json
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.dll
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\bin\Debug\netcoreapp3.0\04. List of Products.pdb
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\obj\Debug\netcoreapp3.0\04. List of Products.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\obj\Debug\netcoreapp3.0\04. List of Products.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\obj\Debug\netcoreapp3.0\04. List of Products.AssemblyInfo.cs
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\obj\Debug\netcoreapp3.0\04. List of Products.dll
+C:\Users\N1\source\repos\12.02.2020 Lists\04. List of Products\obj\Debug\netcoreapp3.0\04. List of Products.pdb

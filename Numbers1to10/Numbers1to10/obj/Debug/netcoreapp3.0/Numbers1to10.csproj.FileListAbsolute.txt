@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\Numbers1to10\Numbers1to10\bin\Debug\netcoreapp3.0\Numbers1to10.exe
+C:\Users\N1\source\repos\Numbers1to10\Numbers1to10\bin\Debug\netcoreapp3.0\Numbers1to10.deps.json
+C:\Users\N1\source\repos\Numbers1to10\Numbers1to10\bin\Debug\netcoreapp3.0\Numbers1to10.runtimeconfig.json
+C:\Users\N1\source\repos\Numbers1to10\Numbers1to10\bin\Debug\netcoreapp3.0\Numbers1to10.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Numbers1to10\Numbers1to10\bin\Debug\netcoreapp3.0\Numbers1to10.dll
+C:\Users\N1\source\repos\Numbers1to10\Numbers1to10\bin\Debug\netcoreapp3.0\Numbers1to10.pdb
+C:\Users\N1\source\repos\Numbers1to10\Numbers1to10\obj\Debug\netcoreapp3.0\Numbers1to10.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Numbers1to10\Numbers1to10\obj\Debug\netcoreapp3.0\Numbers1to10.AssemblyInfo.cs
+C:\Users\N1\source\repos\Numbers1to10\Numbers1to10\obj\Debug\netcoreapp3.0\Numbers1to10.dll
+C:\Users\N1\source\repos\Numbers1to10\Numbers1to10\obj\Debug\netcoreapp3.0\Numbers1to10.pdb

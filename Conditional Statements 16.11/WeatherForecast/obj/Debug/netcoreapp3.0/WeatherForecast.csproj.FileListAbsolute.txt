@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\Conditional Statements 16.11\WeatherForecast\bin\Debug\netcoreapp3.0\WeatherForecast.exe
+C:\Users\N1\source\repos\Conditional Statements 16.11\WeatherForecast\bin\Debug\netcoreapp3.0\WeatherForecast.deps.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\WeatherForecast\bin\Debug\netcoreapp3.0\WeatherForecast.runtimeconfig.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\WeatherForecast\bin\Debug\netcoreapp3.0\WeatherForecast.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\WeatherForecast\bin\Debug\netcoreapp3.0\WeatherForecast.dll
+C:\Users\N1\source\repos\Conditional Statements 16.11\WeatherForecast\bin\Debug\netcoreapp3.0\WeatherForecast.pdb
+C:\Users\N1\source\repos\Conditional Statements 16.11\WeatherForecast\obj\Debug\netcoreapp3.0\WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Conditional Statements 16.11\WeatherForecast\obj\Debug\netcoreapp3.0\WeatherForecast.AssemblyInfo.cs
+C:\Users\N1\source\repos\Conditional Statements 16.11\WeatherForecast\obj\Debug\netcoreapp3.0\WeatherForecast.dll
+C:\Users\N1\source\repos\Conditional Statements 16.11\WeatherForecast\obj\Debug\netcoreapp3.0\WeatherForecast.pdb

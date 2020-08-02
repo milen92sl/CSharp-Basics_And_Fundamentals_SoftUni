@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\2DProect\bin\Debug\netcoreapp3.0\2DProect.exe
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\2DProect\bin\Debug\netcoreapp3.0\2DProect.deps.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\2DProect\bin\Debug\netcoreapp3.0\2DProect.runtimeconfig.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\2DProect\bin\Debug\netcoreapp3.0\2DProect.runtimeconfig.dev.json
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\2DProect\bin\Debug\netcoreapp3.0\2DProect.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\2DProect\bin\Debug\netcoreapp3.0\2DProect.pdb
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\2DProect\obj\Debug\netcoreapp3.0\2DProect.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\2DProect\obj\Debug\netcoreapp3.0\2DProect.AssemblyInfo.cs
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\2DProect\obj\Debug\netcoreapp3.0\2DProect.dll
+C:\Users\N1\source\repos\SimpleOperationsandCalculationsExercise\2DProect\obj\Debug\netcoreapp3.0\2DProect.pdb

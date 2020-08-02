@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\14. Floatin Equality\bin\Debug\netcoreapp3.0\14. Floatin Equality.exe
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\14. Floatin Equality\bin\Debug\netcoreapp3.0\14. Floatin Equality.deps.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\14. Floatin Equality\bin\Debug\netcoreapp3.0\14. Floatin Equality.runtimeconfig.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\14. Floatin Equality\bin\Debug\netcoreapp3.0\14. Floatin Equality.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\14. Floatin Equality\bin\Debug\netcoreapp3.0\14. Floatin Equality.dll
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\14. Floatin Equality\bin\Debug\netcoreapp3.0\14. Floatin Equality.pdb
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\14. Floatin Equality\obj\Debug\netcoreapp3.0\14. Floatin Equality.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\14. Floatin Equality\obj\Debug\netcoreapp3.0\14. Floatin Equality.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\14. Floatin Equality\obj\Debug\netcoreapp3.0\14. Floatin Equality.dll
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\14. Floatin Equality\obj\Debug\netcoreapp3.0\14. Floatin Equality.pdb

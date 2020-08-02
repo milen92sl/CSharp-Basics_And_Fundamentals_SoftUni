@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\bin\Debug\netcoreapp3.0\04. Walking.exe
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\bin\Debug\netcoreapp3.0\04. Walking.deps.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\bin\Debug\netcoreapp3.0\04. Walking.runtimeconfig.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\bin\Debug\netcoreapp3.0\04. Walking.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\bin\Debug\netcoreapp3.0\04. Walking.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\bin\Debug\netcoreapp3.0\04. Walking.pdb
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\obj\Debug\netcoreapp3.0\04. Walking.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\obj\Debug\netcoreapp3.0\04. Walking.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\obj\Debug\netcoreapp3.0\04. Walking.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\obj\Debug\netcoreapp3.0\04. Walking.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\04. Walking\obj\Debug\netcoreapp3.0\04. Walking.pdb

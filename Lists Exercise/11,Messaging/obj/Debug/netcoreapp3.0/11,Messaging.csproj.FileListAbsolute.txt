@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\14.02. Lists Exercise\11,Messaging\bin\Debug\netcoreapp3.0\11,Messaging.exe
+C:\Users\N1\source\repos\14.02. Lists Exercise\11,Messaging\bin\Debug\netcoreapp3.0\11,Messaging.deps.json
+C:\Users\N1\source\repos\14.02. Lists Exercise\11,Messaging\bin\Debug\netcoreapp3.0\11,Messaging.runtimeconfig.json
+C:\Users\N1\source\repos\14.02. Lists Exercise\11,Messaging\bin\Debug\netcoreapp3.0\11,Messaging.runtimeconfig.dev.json
+C:\Users\N1\source\repos\14.02. Lists Exercise\11,Messaging\bin\Debug\netcoreapp3.0\11,Messaging.dll
+C:\Users\N1\source\repos\14.02. Lists Exercise\11,Messaging\bin\Debug\netcoreapp3.0\11,Messaging.pdb
+C:\Users\N1\source\repos\14.02. Lists Exercise\11,Messaging\obj\Debug\netcoreapp3.0\11,Messaging.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\14.02. Lists Exercise\11,Messaging\obj\Debug\netcoreapp3.0\11,Messaging.AssemblyInfo.cs
+C:\Users\N1\source\repos\14.02. Lists Exercise\11,Messaging\obj\Debug\netcoreapp3.0\11,Messaging.dll
+C:\Users\N1\source\repos\14.02. Lists Exercise\11,Messaging\obj\Debug\netcoreapp3.0\11,Messaging.pdb

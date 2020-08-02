@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\bin\Debug\netcoreapp3.0\03.The final Quest.exe
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\bin\Debug\netcoreapp3.0\03.The final Quest.deps.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\bin\Debug\netcoreapp3.0\03.The final Quest.runtimeconfig.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\bin\Debug\netcoreapp3.0\03.The final Quest.runtimeconfig.dev.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\bin\Debug\netcoreapp3.0\03.The final Quest.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\bin\Debug\netcoreapp3.0\03.The final Quest.pdb
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\obj\Debug\netcoreapp3.0\03.The final Quest.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\obj\Debug\netcoreapp3.0\03.The final Quest.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\obj\Debug\netcoreapp3.0\03.The final Quest.AssemblyInfo.cs
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\obj\Debug\netcoreapp3.0\03.The final Quest.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\03.The final Quest\obj\Debug\netcoreapp3.0\03.The final Quest.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekciq2", "Lekciq2\Lekciq2.csproj", "{47C0F203-17B7-4243-8B1C-DD6623A1FEB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C0F203-17B7-4243-8B1C-DD6623A1FEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C0F203-17B7-4243-8B1C-DD6623A1FEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C0F203-17B7-4243-8B1C-DD6623A1FEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C0F203-17B7-4243-8B1C-DD6623A1FEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85B1981-1E9A-438C-BEBF-D6F5A7097D17}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\Invalid Number\obj\Debug\netcoreapp3.0\Invalid Number.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\Invalid Number\obj\Debug\netcoreapp3.0\Invalid Number.AssemblyInfo.cs
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.exe
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.deps.json
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.runtimeconfig.json
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.runtimeconfig.dev.json
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.dll
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\Invalid Number\bin\Debug\netcoreapp3.0\Invalid Number.pdb
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\Invalid Number\obj\Debug\netcoreapp3.0\Invalid Number.dll
+C:\Users\N1\source\repos\19.11.2019.Nested Conditional Statements - Lab\Invalid Number\obj\Debug\netcoreapp3.0\Invalid Number.pdb

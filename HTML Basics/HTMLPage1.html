@@ -1,0 +1,3426 @@
+﻿
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0">
+
+        <title>Курс C# Fundamentals - януари 2020 - Софтуерен университет</title>
+
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+
+    <link href="/content/bootstrap/styles?v=4jFDhL8tnPLVZ2-NA0JyLpbIBjoBrHraCB3JHUxz1DM1" rel="stylesheet"/>
+
+
+    
+
+<link href="/content/kendo/css?v=hz54jZh5scitRBKPYf3s1aSUyQFaaELpC8SNjhIUtIQ1" rel="stylesheet"/>
+<link href="/content/styles?v=qQdGVgYId_ISA27wXv_BPCf6RHTYKosOK23TnkZ6Chw1" rel="stylesheet"/>
+<link href="/content/override?v=CV8pRfSIxscWBkNWFOWr2Qrd6GNh7Qo2R_ZG8dpBEQ01" rel="stylesheet"/>
+<link href="/content/user-styles?v=vo3uTH3jezQVDb8mvcH-TzBHHMS79-VwrZbFuD3p-pU1" rel="stylesheet"/>
+
+    
+    <link href="/content/training-details?v=FQXayE2wBnwb0DjmJqyV8T-2Ti6p3uLUNqUsoMbf2WU1" rel="stylesheet"/>
+
+
+
+    <script src="/bundles/jquery?v=lX15pWtjC6GXtlKo4e2grjdbasON0ea4DsyauXX6fyQ1"></script>
+<script src="/bundles/seo-hide?v=6Li6YDfucvI0ovvg2ibtvgGqJGwoz6krBWVnU1_pKVU1"></script>
+<script src="/bundles/seo-hide-dynamic?v=sNrEBp9APgAg6enbjSi8_Mo8ICMFtnHsbTnlYrG2ViY1"></script>
+
+
+
+    <link rel="canonical"
+          href="https://softuni.bg/trainings/2600/csharp-fundamentals-january-2020" />
+
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="SoftUni" />
+                <meta name="title" content="Софтуерен университет" />
+        <meta name="description" content="Софтуерен университет - курсове по програмиране" />
+        <meta name="Keywords" content="софтуер,университет,програмиране,курсове" />
+
+    <meta property="fb:app_id" content="1442925725936458">
+    <meta property="og:url" content="https://softuni.bg/trainings/2600/csharp-fundamentals-january-2020" />
+    <meta property="og:site_name" content="SoftUni">
+    <meta property="og:locale" content="bg_BG" />
+    <meta property="og:locale:alternate" content="en_US" />
+
+
+    <meta property="og:title" content="C# Fundamentals - януари 2020" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Курсът Programming&amp;nbsp;Fundamentals разширява натрупаните до момента начални умения за писане на програмен код от курса &quot;Programming Basics&quot; и запознава с базови техники и инструменти, които надграждат писането на прости програмни конструкции.
+Наред с техниките за прог..." />
+    <meta property="og:image" content="https://softuni.bg/files/images/new-images-for-internal-program/Programming-Fundamentals_facebook.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="600" />
+
+    
+    
+    
+    
+
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-K2LDNFK');
+        </script>
+        <script>
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq) return;
+                n = f.fbq = function () {
+                    n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+                };
+                if (!f._fbq) f._fbq = n;
+                n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+                t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s);
+            }(window, document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+            fbq('init', '911920462219791');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img title="Профил" alt="Профил" height="1" width="1" style="display: none"
+                 src="https://www.facebook.com/tr?id=911920462219791&ev=PageView&noscript=1" />
+        </noscript>
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-11309924-7', 'softuni.bg');
+            ga('send', 'pageview');
+        </script>
+</head>
+
+<body>
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K2LDNFK"
+                height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    
+
+    
+
+        <div class="lead-wrapper">
+            
+
+
+
+
+
+<div class="header-wrapper bottom-margin">
+    <header id="page-header" class="container container-holder">
+        <div class="brand-holder pull-left">
+            <div class="cell">
+                <div class="hover-dropdown">
+                    <div class="logo hover-dropdown-btn">
+                        <i class="fa fa-fw fa-2x fa-caret-right"></i>
+                        <strong>Software University</strong>
+                        <a href="/" title="Software University">
+                            <img class="hidden-xs" src="/content/images/svg-logos/software-university-logo.svg" alt="Logo" title="Software University" />
+                            <img title="Профил" class="visible-xs" src="/content/images/svg-logos/software-university-mobile-logo.svg" alt="Logo" id="mobile-logo">
+                        </a>
+                    </div>
+                    <div class="hover-dropdown-content">
+                        <a href="https://about.softuni.bg" title="SoftUni">
+                            <img src="/Content/images/svg-logos/softuni-logo-white.svg" alt="SoftUni logo" title="SoftUni" id="softuni-logo" />
+                        </a>
+                        <a href="https://digital.softuni.bg" title="SoftUni Digital">
+                            <img src="/Content/images/svg-logos/digital-logo-white.svg" alt="SoftUni Digital logo" title="SoftUni Digital" id="digital-logo" />
+                        </a>
+                        <a href="https://creative.softuni.bg" title="SoftUni Creative">
+                            <img src="/Content/images/svg-logos/creative-logo-white.svg" alt="SoftUni Creative logo" title="SoftUni Creative" />
+                        </a>
+                        <a href="https://kids.softuni.bg" title="SoftUni Kids">
+                            <img src="/Content/images/svg-logos/kids-logo-white.svg" alt="SoftUni Kids logo" title="SoftUni Kids" />
+                        </a>
+                        <a href="https://svetlina.softuni.bg" title="SoftUni Svetlina">
+                            <img src="/Content/images/svg-logos/light-logo-white.svg" alt="SoftUni Svetlina logo" title="SoftUni Svetlina" id="light-logo" />
+                        </a>
+                        <a href="http://softuni.foundation/" title="SoftUni Foundation">
+                            <img src="/Content/images/svg-logos/foundation-logo-white.svg" alt="SoftUni Foundation logo" title="SoftUni Foundation" id="foundation-logo" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            <div class="table-holder apply-btn-wrap pull-left">
+                <div class="cell">
+                    
+                    
+                    <span hashstring="aHJlZjovYXBwbHksY2xhc3M6cHJpbWFyeS1idG4gYmFzZS1idG4=" hashtype="content"></span>
+                </div>
+            </div>
+
+
+        <nav id="header-nav">
+            <div class="toggle-nav toggle-holder">
+                <ul class="nav-list horizontal-list">
+                    <li class="nav-item dropdown-item">
+                        <a href="javascript:;" class="nav-link header-dropdown-link" data-toggle="dropdown">
+                            <span class="cell">За нас</span>
+                        </a>
+
+                        <div class="custom-dropdown">
+                            <div class="container container-holder">
+                                <ul class="dropdown-list row">
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/about" class="nav-link">За Software University</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/curriculum" class="nav-link">Учебен план</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/plans" class="nav-link">Такси за обучение</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/diplomas-and-certificates" class="nav-link">Сертификати</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/trainers" class="nav-link">Преподаватели</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/faq" class="nav-link">Често задавани въпроси</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown-item">
+                        <a href="javascript:;" class="nav-link header-dropdown-link" data-toggle="dropdown">
+                            <span class="cell">Обучения</span>
+                        </a>
+                        
+
+
+
+<div class="custom-dropdown container training-dropdown">
+    <div class="container container-holder">
+        <div class="row titles-row no-margin-offset visible-lg visible-md">
+            <div class="col-md-4">
+                <h2 class="category-title main">
+                    <i class="fa fa-desktop" aria-hidden="true"></i>
+                    <a href="/trainings/courses">Софтуерно Инженерство</a>
+                </h2>
+            </div>
+            <div class="col-md-8 open-courses-background">
+                <h2 class="category-title main text-center">
+                    <i class="fa fa-cube" aria-hidden="true"></i>
+                    <a href="/trainings/opencourses">Отворени курсове и модули</a>
+                </h2>
+            </div>
+        </div>
+        <div class="row no-margin-offset courses-and-modules-wrapper">
+            <div class="col-md-4 courses-wrapper">
+                <h2 class="category-title main visible-sm visible-xs">
+                    <i class="fa fa-desktop" aria-hidden="true"></i>
+                    <a href="/trainings/courses">Софтуерно Инженерство</a>
+                </h2>
+                <div class="category-nav">
+                        <div class="category-title sub uppercase">
+                            Предстоящи модули
+                        </div>
+
+
+
+    <div class="category-nav levels-nav header-level-group-container ">
+        <ul class="category-list">
+            
+        </ul>
+    </div>
+
+                        <div class="category-title sub uppercase">
+                            Активни модули
+                        </div>
+
+    <div class="category-nav levels-nav header-level-group-container first-level-group-container">
+        <ul class="category-list">
+                <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/2/Entry-Module/1232">Entry Module</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2661/programming-basics-with-cpp-january-2020/internal" 
+        class="nav-link">Programming Basics with C++ - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2664/programming-basics-with-c-sharp-january-2020/internal" 
+        class="nav-link">Programming Basics with C# - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2665/programming-basics-with-java-january-2020/internal" 
+        class="nav-link">Programming Basics with Java - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2666/programming-basics-with-python-january-2020/internal" 
+        class="nav-link">Programming Basics with Python - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2667/programming-basics-with-javascript-january-2020/internal" 
+        class="nav-link">Programming Basics with JavaScript - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2768/programming-basics-with-c-sharp-february-2020 /internal" 
+        class="nav-link">Programming Basics with C# - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2772/programming-basics-with-java-february-2020/internal" 
+        class="nav-link">Programming Basics with Java - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2773/programming-basics-with-javascript-february-2020/internal" 
+        class="nav-link">Programming Basics with JavaScript - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2777/programming-basics-with-python-february-2020/internal" 
+        class="nav-link">Programming Basics with Python - февруари 2020</a>
+</li>
+
+        </ul>
+    </div>
+
+        </ul>
+    </div>
+
+    <div class="category-nav levels-nav header-level-group-container ">
+        <ul class="category-list">
+                <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/70/Fundamentals-Module/1203">Fundamentals Module</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2599/programming-fundamentals-january-2020" 
+        class="nav-link">Programming Fundamentals - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2600/csharp-fundamentals-january-2020" 
+        class="nav-link">C# Fundamentals - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2601/java-fundamentals-january-2020" 
+        class="nav-link">Java Fundamentals - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2602/js-fundamentals-january-2020" 
+        class="nav-link">JS Fundamentals - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2603/python-fundamentals-january-2020" 
+        class="nav-link">Python Fundamentals - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2604/fundamentals-with-csharp-java-javascript-and-python-january-2020" 
+        class="nav-link">Fundamentals with C#, Java, JavaScript and Python - януари 2020</a>
+</li>
+
+        </ul>
+    </div>
+
+        </ul>
+    </div>
+
+    <div class="category-nav levels-nav header-level-group-container ">
+        <ul class="category-list">
+                <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/47/CSharp-Web/1212">C# Web</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2613/csharp-web-basics-january-2020" 
+        class="nav-link">C# Web Basics - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2614/asp-net-core-february-2020" 
+        class="nav-link">ASP.NET Core - февруари 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/58/CSharp-Advanced/1208">C# Advanced</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2605/csharp-advanced-january-2020" 
+        class="nav-link">C# Advanced - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2606/csharp-oop-february-2020" 
+        class="nav-link">C# OOP - февруари 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/59/Java-Advanced/1209">Java Advanced</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2607/java-advanced-january-2020" 
+        class="nav-link">Java Advanced - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2608/java-oop-february-2020" 
+        class="nav-link">Java OOP - февруари 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/74/Python-Advanced/1211">Python Advanced</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2496/python-advanced-january-2020" 
+        class="nav-link">Python Advanced - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2497/python-oop-february-2020" 
+        class="nav-link">Python OOP - февруари 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/83/Front-End-Frameworks/1226">Front-End Frameworks</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2760/angular-january-2020/internal" 
+        class="nav-link">Angular - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2618/vuejs-march-2020" 
+        class="nav-link">VueJS - март 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/24/Java-DB/1210">Java DB</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2752/mysql-january-2020/internal" 
+        class="nav-link">MySQL - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2612/spring-data-february-2020" 
+        class="nav-link">Spring Data - февруари 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/76/JS-Advanced/1207">JS Advanced</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2609/js-advanced-january-2020" 
+        class="nav-link">JS Advanced - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2610/js-applications-february-2020" 
+        class="nav-link">JS Applications - февруари 2020</a>
+</li>
+
+        </ul>
+    </div>
+
+        </ul>
+    </div>
+
+                    <a class="primary-btn base-btn" href="/trainings/courses">Виж всички</a>
+                </div>
+            </div>
+
+            <div class="col-md-8 open-courses-wrapper open-courses-background">
+                <div class="category-nav">
+                    <h2 class="category-title main text-center visible-sm visible-xs">
+                        <i class="fa fa-cube" aria-hidden="true"></i>
+                        <a href="/trainings/opencourses">Отворени курсове и модули</a>
+                    </h2>
+                    <div class="col-md-6 no-padding">
+                            <div class="category-title sub uppercase">
+                                Предстоящи модули
+                            </div>
+                            <ul class="category-list small-padding">
+                                    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/87/Artificial-Intelligence-February-2020">Artificial Intelligence - февруари 2020</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2778/math-concepts-for-developers-february-2020" 
+        class="nav-link">Math Concepts for Developers - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2779/data-science-june-2020" 
+        class="nav-link">Data Science - юни 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2780/machine-learning-september-2020" 
+        class="nav-link">Machine Learning - септември 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2781/deep-learning-december-2020" 
+        class="nav-link">Deep Learning - декември 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/88/System-Administration-Advanced-Ferbruary-2020">System Administration Advanced - февруари 2020</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2783/windows-system-administration-advanced–february-2020" 
+        class="nav-link">Windows System Administration Advanced – февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2785/linux-system-administration-advanced–april-2020" 
+        class="nav-link">Linux System Administration Advanced – април 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/89/System-Administration-Fundamentals-February-2020">System Administration Fundamentals - февруари 2020</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2804/windows-system-administration–february-2020" 
+        class="nav-link">Windows System Administration – февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2806/linux-system-administration–may-2020" 
+        class="nav-link">Linux System Administration – май 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/91/Data-Structures-with-Java-March-2020">Data Structures with Java - март 2020</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2812/data-structures-fundamentals-with-java-march-2020" 
+        class="nav-link">Data Structures Fundamentals (with Java) - март 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2814/data-structures-advanced-with-java-april-2020" 
+        class="nav-link">Data Structures Advanced (with Java) - април 2020</a>
+</li>
+
+        </ul>
+    </div>
+
+                            </ul>
+
+                            <div class="category-title sub uppercase">
+                                Активни модули
+                            </div>
+                            <ul class="category-list">
+                                    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/65/Artificial-Intelligence-April-2019">Artificial Intelligence - април 2019</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2318/deep-learning-november-2019" 
+        class="nav-link">Deep Learning – ноември 2019</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/73/CPlusPlus-Development-June-2019">C++ Development - юни 2019</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2403/c-plus-plus-advanced-november-2019" 
+        class="nav-link">C++ Advanced - ноември 2019</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/79/IT-Project-Management-October-2019">IT Project Management - октомври 2019</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2551/agile-software-development-january-2020" 
+        class="nav-link">Agile Software Development - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2549/agile-software-development-with-scrum-march-2020" 
+        class="nav-link">Agile Software Development with Scrum - март 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/80/Quality-Assurance-October-2019">Quality Assurance - октомври 2019</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2552/fundamentals-of-programming-with-csharp-january-2020" 
+        class="nav-link">Fundamentals of Programming (with C#) - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2550/qa-automation-may-2020" 
+        class="nav-link">QA Automation - май 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/82/Computer-Networking-October-2019">Computer Networking - октомври 2019</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2568/computer-networking-advanced-january-2020" 
+        class="nav-link">Computer Networking Advanced - януари 2020</a>
+</li>
+
+        </ul>
+    </div>
+    <div class="category-nav levels-nav">
+        <h2 class="category-title header-level">
+            <a class="header-level-link" href="/modules/85/CPlusPlus-Development-January-2020">C++ Development - януари 2020</a>
+        </h2>
+
+        <ul class="category-list sub-menu">
+            
+
+
+<li>
+    <a href="/trainings/2661/programming-basics-with-cpp-january-2020" 
+        class="nav-link">Programming Basics with C++ - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2692/cpp-fundamentals-march-2020" 
+        class="nav-link">C++ Fundamentals - март 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2695/cpp-advanced-june-2020" 
+        class="nav-link">C++ Advanced – юни 2020</a>
+</li>
+
+        </ul>
+    </div>
+
+                            </ul>
+
+                        <a href="/trainings/opencourses" class="primary-btn base-btn">Виж всички</a>
+                    </div>
+
+                    <div class="col-md-6 no-padding">
+                            <div class="category-title sub uppercase">
+                                Предстоящи курсове
+                            </div>
+                            <ul class="category-list sub-menu">
+                                
+
+
+<li>
+    <a href="/trainings/2773/programming-basics-with-javascript-february-2020" 
+        class="nav-link">Programming Basics with JavaScript - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2768/programming-basics-with-c-sharp-february-2020 " 
+        class="nav-link">Programming Basics with C# - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2772/programming-basics-with-java-february-2020" 
+        class="nav-link">Programming Basics with Java - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2777/programming-basics-with-python-february-2020" 
+        class="nav-link">Programming Basics with Python - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2784/html-and-css-february-2020" 
+        class="nav-link">HTML &amp; CSS - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2796/asp-net-core-february-2020" 
+        class="nav-link">ASP.NET Core - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2811/mongo-db-february-2020" 
+        class="nav-link">MongoDB - февруари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2808/programming-basics-with-c-sharp-march-2020" 
+        class="nav-link">Programming Basics with C# - март 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2815/programming-basics-with-python-march-2020" 
+        class="nav-link">Programming Basics with Python - март 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2813/programming-basics-with-javascript-march-2020 - copy" 
+        class="nav-link">Programming Basics with JavaScript - март 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2810/programming-basics-with-java-march-2020" 
+        class="nav-link">Programming Basics with Java - март 2020</a>
+</li>
+
+                            </ul>
+
+                            <div class="category-title sub uppercase">
+                                Активни курсове
+                            </div>
+                            <ul class="category-list sub-menu">
+                                
+
+
+<li>
+    <a href="/trainings/2696/typescript-advanced-december-2019" 
+        class="nav-link">Typescript Advanced - декември 2019</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2699/javascript-for-front-end-december-2019" 
+        class="nav-link">JavaScript for Front-End - декември 2019</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2706/high-quality-code-december-2019" 
+        class="nav-link">High Quality Code - декември 2019</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2684/php-fundamentals-december-2019" 
+        class="nav-link">PHP Fundamentals – декември 2019</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2661/programming-basics-with-cpp-january-2020" 
+        class="nav-link">Programming Basics with C++ - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2664/programming-basics-with-c-sharp-january-2020" 
+        class="nav-link">Programming Basics with C# - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2665/programming-basics-with-java-january-2020" 
+        class="nav-link">Programming Basics with Java - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2666/programming-basics-with-python-january-2020" 
+        class="nav-link">Programming Basics with Python - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2667/programming-basics-with-javascript-january-2020" 
+        class="nav-link">Programming Basics with JavaScript - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2752/mysql-january-2020" 
+        class="nav-link">MySQL - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2760/angular-january-2020" 
+        class="nav-link">Angular - януари 2020</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/2770/microsoft-excel-automation-january-2020" 
+        class="nav-link">Microsoft Excel Automation - януари 2020</a>
+</li>
+
+                            </ul>
+
+                        <a href="/trainings/opencourses" class="primary-btn base-btn">Виж всички</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/careers" class="nav-link"><span class="cell">Работа</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/partners" class="nav-link">
+                            <span class="cell">Партньори</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/forum" class="nav-link"><span class="cell">Форум</span></a>
+                    </li>
+                    <li class="nav-item dropdown-item">
+                        <a href="javascript:;" class="nav-link header-dropdown-link" data-toggle="dropdown">
+                            <span class="cell">Блог</span>
+                        </a>
+                        <div class="custom-dropdown">
+                            <div class="container container-holder">
+                                <ul class="dropdown-list row">
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/blog" class="nav-link">Блог статии</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/all" class="nav-link">
+                                            Професия програмист
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/java" class="nav-link">
+                                            Професия Java Developer
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/python" class="nav-link">
+                                            Професия Python Developer
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/university/developersguide" class="nav-link">
+                                            Наръчник за програмисти
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/csharp" class="nav-link">
+                                            Професия C# Developer
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/javascript" class="nav-link">
+                                            Професия JS Developer
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/contacts" class="nav-link"><span class="cell">Контакти</span></a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="nav-buttons">
+                <ul class="nav-list">
+                    <li class="nav-item dropdown-item nav-toggle-item btn-item">
+                        <a href="javascript:;" class="icon-btn nav-toggle-btn hidden-lg hidden-md" data-toggle="dropdown">
+                            <span class="cell">
+                                <i class="fa fa-bars"></i>
+                            </span>
+                        </a>
+                    </li>
+
+                        <li class="nav-item dropdown-item btn-item profile-dropdown-item">
+                            <a href="javascript:;" class="icon-btn profile-btn logged-in" id="show-profile-menu"
+                               data-shown="false" data-toggle="dropdown">
+                                <span class="cell user-cell">
+                                    <span class="user-wrap">
+                                        <span class="user-avatar">
+                                            <img title="Профил" src="/users/profile/showavatar/52e5783a-8ee1-4243-b918-158cb92573ab"
+                                                 alt="milen92sl avatar" />
+                                        </span>
+                                    </span>
+
+                                    <span class="notification-count">
+                                        <span class="table-holder">
+                                            <span class="circle-cell unread-notifications-count">0</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                            <div class="profile-menu-bar custom-dropdown dropdown-items text-center col-md-6 text-center" role="menu">
+                                
+
+
+
+<header class=" profile-header">
+        <div class="row no-margin-offset section-edit">
+            <a href="/users/profile/editcontacts" class="inversed pull-right" title="Edit">
+                <i class="fa fa-fw fa-2x fa-pencil"></i>
+            </a>
+        </div>
+    <h1 class="profile-menu-bar-heading uppercase">Профил</h1>
+</header>
+
+<div class="profile-menu-bar-main-info row no-margin-offset bottom-buffer-lg top-buffer-lg">
+    <div class="username lowercase bolder arciform">@milen92sl</div>
+        <div class="full-name bolder">(Milen  Ivanov)</div>
+        <div class="email lighter">
+            milen92sl@abv.bg
+
+        </div>
+</div>
+<div class="social-icons row no-margin-offset bottom-buffer-lg">
+    <div class="social-icons-item col-sm-2 col-xs-12">
+            <span class="icon-btn disabled"><span class="fa fa-2x fa-github"></span></span>
+    </div>
+    <div class="social-icons-item col-sm-2 col-xs-12">
+            <span class="icon-btn disabled"><span class="fa fa-2x fa-stack-overflow"></span></span>
+    </div>
+    <div class="social-icons-item col-sm-2 col-xs-12">
+            <a href="https://www.facebook.com/tyzara92" target="_blank" class="icon-btn" alt="Facebook профил">
+                <span class="fa fa-2x fa-facebook"></span>
+            </a>
+    </div>
+    <div class="social-icons-item col-sm-2 col-xs-12">
+            <span class="icon-btn disabled"><span class="fa fa-2x fa-linkedin"></span></span>
+    </div>
+    <div class="social-icons-item col-sm-2 col-xs-12">
+            <span class="icon-btn disabled"><span class="fa fa-2x fa-twitter"></span></span>
+    </div>
+    <div class="social-icons-item col-sm-2 col-xs-12">
+            <a href="https://www.instagram.com/_infinite_wild_soul_/" target="_blank" class="icon-btn" alt="Instagram профил">
+                <span class="fa fa-2x fa-instagram"></span>
+            </a>
+    </div>
+    <div class="social-icons-item col-sm-2 col-xs-12">
+            <span class="icon-btn disabled"><span class="fa fa-2x fa-google-plus"></span></span>
+    </div>
+    <div class="social-icons-item col-sm-2 col-xs-12">
+            <span class="icon-btn disabled"><span class="fa fa-2x fa-skype"></span></span>
+    </div>
+</div>
+<nav class="row no-margin-offset">
+    <ul class="profile-nav-list">
+
+
+        <li class="profile-nav-list-item sub-menu-wrapp" data-toggle="collapse" data-target=".profile-84374">
+            <a href="javascript:void(0);" class="profile-nav-list-item-link lighter main-profile-menu-item arrow-up">Профил</a>
+            <ul class="sub-menu profile-84374 collapsed in">
+                <li class="profile-nav-list-item ">
+                    <a class="profile-nav-list-item-link lighter profile-bar-menu-item" href="/users/profile/show/milen92sl" title="Обща информация">Обща информация</a>
+                </li>
+
+                        <li class="profile-nav-list-item ">
+                            <a href="/users/profile/edit" class="profile-nav-list-item-link lighter profile-bar-menu-item" title="Промяна">
+                                Промяна <i class="fa fa-fw fa-pencil"></i>
+                            </a>
+                        </li>
+                    <li class="profile-nav-list-item ">
+                        <a class="profile-nav-list-item-link lighter profile-bar-menu-item" href="/users/profile/trainings/milen92sl" title="Обучения">Обучения</a>
+                    </li>
+                        <li class="profile-nav-list-item ">
+                            <a class="profile-nav-list-item-link lighter profile-bar-menu-item" href="/users/profile/schedule" title="График зали">График зали</a>
+                        </li>
+                    <li class="profile-nav-list-item ">
+                        <a class="profile-nav-list-item-link lighter profile-bar-menu-item" href="/users/profile/payments?username=milen92sl" title="Плащания">Плащания</a>
+                    </li>
+                        <li class="profile-nav-list-item ">
+                            <a class="profile-nav-list-item-link lighter profile-bar-menu-item" href="/users/profile/curriculum" title="Учебен план">Учебен план</a>
+                        </li>
+                    <li class="profile-nav-list-item ">
+                        <a class="profile-nav-list-item-link lighter profile-bar-menu-item" href="/users/profile/certificates?username=milen92sl" title="Сертификати">Сертификати</a>
+                    </li>
+                        <li class="profile-nav-list-item ">
+                            <a class="profile-nav-list-item-link lighter profile-bar-menu-item" href="/users/surveys" title="Анкети">Анкети</a>
+                        </li>
+
+                <li class="profile-nav-list-item ">
+                    <a class="profile-nav-list-item-link lighter profile-bar-menu-item" href="/users/profile/forum?username=milen92sl" title="Форум">Форум</a>
+                </li>
+
+                    <li class="profile-nav-list-item">
+                        <a class="profile-nav-list-item-link lighter profile-bar-menu-item" href="/notifications/index">Известия</a>
+                    </li>
+                    <li class="profile-nav-list-item">
+                        <a href="/Files/Sentinel/SoftUni-Sentinel-Client-v2.0.0.zip" class="profile-nav-list-item-link lighter">Sentinel клиент</a>
+                    </li>
+                    <li class="profile-nav-list-item">
+                        <a class="profile-nav-list-item-link lighter profile-bar-menu-item" href="/users/profile/settings">Настройки</a>
+                    </li>
+                    <li class="profile-nav-list-item">
+<form action="/account/logoff" class="profile-nav-list-item-link profile-bar-menu-item" id="logoutForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="7pXhBnkBoyBsbmPBaTWi-SqW8fS5_9GBDgDTFRX68Zx_64ONmYoCzaj-HQItk5y1-53tgALKeFGwS7xH7xnjLp1mJF5aN-idtrZwCP-CueX_0kYwcMsXVfdPWpQYk2dXbakDjw2" />                            <input class="profile-nav-list-exit-btn bolder" type="submit" value="Изход" />
+</form>                    </li>
+            </ul>
+        </li>
+
+
+    </ul>
+</nav>
+                            </div>
+                        </li>
+
+                        <li class="nav-item btn-item" id="live">
+                            <a href="/trainings/live" class="nav-link live-link">
+                                <span class="cell">live</span>
+                            </a>
+                        </li>
+
+                    <li class="nav-item" id="search-icon-container">
+                        
+<a href="javascript:;" class="icon-btn header-search-dropdown-link">
+    <span class="cell">
+        <i class="fa fa-search"></i>
+    </span>
+</a>
+
+<div id="search-dropdown" class="custom-dropdown toggle-holder">
+    <div class="container container-holder">
+        <form method="get" action="/search/results">
+            <div class="search-wrap">
+                <button type="submit">
+                    <i class="fa fa-search header-search-form-icon"></i>
+                </button>
+                <input type="text"
+                    id="search-input"
+                    class="search-field"
+                    placeholder="Търси в сайта"
+                    name="SearchTerm" />
+            </div>
+            <div class="filters-holder">
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="CourseInstances"
+                        value="true"
+                        checked
+                        name="CourseInstances" />
+                    <label class="checkbox-label" for="CourseInstances">Курсове</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="FastTrackInstances"
+                        value="true"
+                        checked
+                        name="FastTrackInstances" />
+                    <label class="checkbox-label" for="FastTrackInstances">Отворени Курсове</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Seminars"
+                        value="true"
+                        checked
+                        name="Seminars" />
+                    <label class="checkbox-label" for="Seminars">Семинари</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Questions"
+                        value="true"
+                        checked
+                        name="Questions" />
+                    <label class="checkbox-label" for="Questions">Форум</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Users"
+                        value="true"
+                        checked
+                        name="Users" />
+                    <label class="checkbox-label" for="Users">Потребители</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Resources"
+                        value="true"
+                        checked
+                        name="LectureResources" />
+                    <label class="checkbox-label" for="Resources">Ресурси</label>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    $('#search-dropdown form input:checkbox').click(function (ev) {
+        var checkbox = $(ev.currentTarget);
+        var checkboxValueAsBool = JSON.parse(checkbox.val())
+        checkbox.val(!checkboxValueAsBool);
+    });
+</script>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+</div>
+            
+
+
+
+    <div class="system-message alert alert-info hide-all-system-message">
+        <div class="container">
+<form action="/users/systemmessages/dismissall" data-ajax="true" data-ajax-loading="#system-messages-loading-mask" data-ajax-method="POST" data-ajax-success="App.SystemMessages.hideAll" id="form1" method="post"><input name="__RequestVerificationToken" type="hidden" value="nHE2x3wQBYiM5UX10Tisl4FpRaTpe1V3Y8nN7g1L6D5ngP_TJeSzvIgYhLoPBrY5r8lIU0_Gf9oQVOh9K_gZRySHBVt3upI7l0lFWO1tyG0z21pCHK4Gs9Cc4oMfdvFtEpIHMA2" />                <button type="submit" class="hide-all-system-messages-button" aria-hidden="true">
+                    Скрий всички съобщения
+                </button>
+</form>        </div>
+    </div>
+
+
+
+
+<div class="system-message alert alert-info alert-dismissable" id="system-message-1456">
+    <div class="container system-message-items-container">
+        <span class="system-message-icon-container">
+            <i class="fa fa-check-circle"></i>
+            <i class="fa fa-exclamation-circle"></i>
+            <i class="fa fa-exclamation-triangle"></i>
+        </span>
+        <div class="system-message-content-container">
+                <p class="system-message-title">Спечели 3 кредита към обучението си, чрез участие в СофтУниада 2020</p>
+
+            <p>Ако по време на <a href="https://softuniada.softuni.bg/" target="_blank">СофтУниада 2020</a> решиш успешно 4 задачи, ще получиш 3 кредита, които ще ти помогнат да вземеш своята диплома по софтуерно инженерество.</p>
+        </div>
+
+<form action="/users/systemmessages/dismiss/1456" data-ajax="true" data-ajax-loading="#system-messages-loading-mask" data-ajax-method="POST" data-ajax-success="App.SystemMessages.hide" id="form2" method="post"><input name="__RequestVerificationToken" type="hidden" value="FLu9diXNX1AL8jfFieI9KfrD9iI7wJ59O8P0iC0acko2DO945g8xhGK7_i3UTjsiOH91ypfJtSane5NYkRkz-cCRT35LDKME3TVCCn39YwF6_uRabLN2aUBrsobAw3Q6iVAhTQ2" />                <button type="submit" class="close" aria-hidden="true">
+                    &times;
+                </button>
+</form>    </div>
+</div>
+<style>
+    .loading-mask-container {
+        position: relative;
+    }
+
+    .loading-mask {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        color: #234465;
+        display: none;
+        background-color: rgba(35, 68, 101, 0.05);
+    }
+
+    .loading-spinner-container {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+</style>
+
+<div id="system-messages-loading-mask" class="loading-mask" title="Loading...">
+    <span class="loading-spinner-container">
+        <i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i>
+        <span class="sr-only">Loading...</span>
+    </span>
+</div>
+
+        </div>
+
+    <div class="content">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="nav-bar">
+        <div class="container container-holder">
+            <ul id="horizontal">
+                <li class="active">
+                    <a class="nav-bar-item" href="/trainings/courses">Софтуерно инженерство</a>
+                </li>
+                <li class="">
+                    <a href="/trainings/opencourses" class="nav-bar-item">
+                        Отворени курсове и модули
+                    </a>
+                </li>
+                <li class="">
+                    <a class="nav-bar-item" href="/trainings/seminars">Семинари</a>
+                </li>
+                <li class="">
+                    <a class="nav-bar-item" href="/trainings/resources">Ресурси</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+<header class="lead-header image-background">
+    <h1 class="text-center">C# Fundamentals - януари 2020 
+        
+    </h1>
+
+    <div class="text-center">
+        
+
+    <div class="visible-xs-block visible-sm-block visible-md-inline-block visible-lg-inline-block hidden-block">
+        <span class="educational-form-label">Онлайн</span>
+    </div>
+
+
+
+
+        <div id="live-stream-button-container"
+             data-src="/trainings/trainings/getlivestreambutton?trainingId=2600">
+        </div>
+    </div>
+
+        <img title="Профил" src="https://softuni.bg/files/courses/C__Fundamentals.png" class="training-icon" alt="C# Fundamentals - януари 2020 icon" />
+</header>
+
+<div class="container main-container container-holder">
+        <div class="course-details-main-container row no-margin-offset top-buffer-lg bottom-buffer-lg">
+            <div id="course-details-container"></div>
+            <div class="text-center">
+                <a href="#" id="course-details-btn" class="btn btn-primary uppercase btn-long course-details-btn" data-shown="false">
+                    <span style="display: none;">
+                        <i class="fa fa-spinner fa-pulse fa-1x fa-fw"></i>
+                        <span class="sr-only">Loading...</span>
+                    </span>
+                    Виж пълна информация за курса
+                </a>
+            </div>
+        </div>
+        <div class="row no-margin-offset">
+            <section class="col-md-12 bottom-buffer-lg lectures-wrapper">
+                
+
+<div class="grey-container lectures-section text-center">
+    <div class="text-center bottom-buffer-lg">
+        <h3 class="section-title">Теми</h3>
+    </div>
+    <div class="row lecture-wrap no-margin-offset">
+        <ul class="lectures-list col-md-12 col-sm-12 col-xs-12 text-left" id="lectures-list">
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13785" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13785"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13785"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">1</span>
+        <span class="lecture-name">Resources</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13786" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13786"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13786"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">2</span>
+        <span class="lecture-name">Language Comparison</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13785"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13785"
+       data-target="#lesson-13785"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">1</span>
+        <span class="lecture-name">Resources</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13785">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13786"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13786"
+       data-target="#lesson-13786"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">2</span>
+        <span class="lecture-name">Language Comparison</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13786">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13787" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13787"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13787"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">3</span>
+        <span class="lecture-name">IT Talks</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13948" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13948"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13948"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">4</span>
+        <span class="lecture-name">Course Introduction</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13787"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13787"
+       data-target="#lesson-13787"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">3</span>
+        <span class="lecture-name">IT Talks</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13787">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13948"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13948"
+       data-target="#lesson-13948"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">4</span>
+        <span class="lecture-name">Course Introduction</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13948">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13788" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13788"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13788"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">5</span>
+        <span class="lecture-name">Basic Syntax, Conditional Statements and Loops</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13789" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13789"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13789"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">6</span>
+        <span class="lecture-name">Exercise: Basic Syntax, Conditional Statements and Loops</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13788"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13788"
+       data-target="#lesson-13788"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">5</span>
+        <span class="lecture-name">Basic Syntax, Conditional Statements and Loops</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13788">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13789"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13789"
+       data-target="#lesson-13789"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">6</span>
+        <span class="lecture-name">Exercise: Basic Syntax, Conditional Statements and Loops</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13789">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13792" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13792"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13792"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">7</span>
+        <span class="lecture-name">Basic HTML</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13790" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13790"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13790"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">8</span>
+        <span class="lecture-name">Data Types and Variables</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13792"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13792"
+       data-target="#lesson-13792"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">7</span>
+        <span class="lecture-name">Basic HTML</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13792">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13790"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13790"
+       data-target="#lesson-13790"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">8</span>
+        <span class="lecture-name">Data Types and Variables</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13790">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13791" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13791"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13791"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">9</span>
+        <span class="lecture-name">Exercise: Data Types and Variables</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13793" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13793"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13793"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">10</span>
+        <span class="lecture-name">Basic CSS</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13791"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13791"
+       data-target="#lesson-13791"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">9</span>
+        <span class="lecture-name">Exercise: Data Types and Variables</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13791">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13793"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13793"
+       data-target="#lesson-13793"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">10</span>
+        <span class="lecture-name">Basic CSS</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13793">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13794" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13794"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13794"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">11</span>
+        <span class="lecture-name">Arrays</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13795" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13795"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13795"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">12</span>
+        <span class="lecture-name">Exercise: Arrays</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13794"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13794"
+       data-target="#lesson-13794"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">11</span>
+        <span class="lecture-name">Arrays</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13794">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13795"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13795"
+       data-target="#lesson-13795"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">12</span>
+        <span class="lecture-name">Exercise: Arrays</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13795">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13796" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13796"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13796"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">13</span>
+        <span class="lecture-name">HTTP Basics</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13797" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13797"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13797"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">14</span>
+        <span class="lecture-name">Methods</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13796"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13796"
+       data-target="#lesson-13796"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">13</span>
+        <span class="lecture-name">HTTP Basics</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13796">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13797"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13797"
+       data-target="#lesson-13797"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">14</span>
+        <span class="lecture-name">Methods</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13797">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13798" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13798"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13798"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">15</span>
+        <span class="lecture-name">Exercise: Methods</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13799" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13799"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13799"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">16</span>
+        <span class="lecture-name">Problem Solving</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13798"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13798"
+       data-target="#lesson-13798"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">15</span>
+        <span class="lecture-name">Exercise: Methods</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13798">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13799"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13799"
+       data-target="#lesson-13799"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">16</span>
+        <span class="lecture-name">Problem Solving</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13799">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13800" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13800"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13800"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">17</span>
+        <span class="lecture-name">Lists</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13801" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13801"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13801"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">18</span>
+        <span class="lecture-name">Exercise: Lists</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13800"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13800"
+       data-target="#lesson-13800"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">17</span>
+        <span class="lecture-name">Lists</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13800">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13801"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13801"
+       data-target="#lesson-13801"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">18</span>
+        <span class="lecture-name">Exercise: Lists</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13801">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13802" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13802"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13802"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">19</span>
+        <span class="lecture-name">Bitwise Operations</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13803" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13803"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13803"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">20</span>
+        <span class="lecture-name">Objects and Classes</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13802"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13802"
+       data-target="#lesson-13802"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">19</span>
+        <span class="lecture-name">Bitwise Operations</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13802">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13803"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13803"
+       data-target="#lesson-13803"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">20</span>
+        <span class="lecture-name">Objects and Classes</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13803">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13804" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13804"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13804"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">21</span>
+        <span class="lecture-name">Exercise: Objects and Classes</span>
+
+            <i class="fa fa-hand-o-left last-lecture"></i>
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13805" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13805"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13805"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">22</span>
+        <span class="lecture-name">Exam Preparation</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13804"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13804"
+       data-target="#lesson-13804"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">21</span>
+        <span class="lecture-name">Exercise: Objects and Classes</span>
+
+            <i class="fa fa-hand-o-left last-lecture"></i>
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13804">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13805"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13805"
+       data-target="#lesson-13805"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">22</span>
+        <span class="lecture-name">Exam Preparation</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13805">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13806" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13806"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13806"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">23</span>
+        <span class="lecture-name">Mid Exam</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13807" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13807"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13807"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">24</span>
+        <span class="lecture-name">Associative Arrays</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13806"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13806"
+       data-target="#lesson-13806"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">23</span>
+        <span class="lecture-name">Mid Exam</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13806">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13807"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13807"
+       data-target="#lesson-13807"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">24</span>
+        <span class="lecture-name">Associative Arrays</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13807">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13808" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13808"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13808"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">25</span>
+        <span class="lecture-name">Exercise: Associative Arrays</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13809" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13809"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13809"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">26</span>
+        <span class="lecture-name">Intro to Computer Science</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13808"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13808"
+       data-target="#lesson-13808"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">25</span>
+        <span class="lecture-name">Exercise: Associative Arrays</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13808">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13809"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13809"
+       data-target="#lesson-13809"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">26</span>
+        <span class="lecture-name">Intro to Computer Science</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13809">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13810" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13810"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13810"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">27</span>
+        <span class="lecture-name">Text Processing </span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13811" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13811"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13811"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">28</span>
+        <span class="lecture-name">Exercise: Text Processing </span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13810"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13810"
+       data-target="#lesson-13810"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">27</span>
+        <span class="lecture-name">Text Processing </span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13810">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13811"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13811"
+       data-target="#lesson-13811"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">28</span>
+        <span class="lecture-name">Exercise: Text Processing </span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13811">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13812" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13812"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13812"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">29</span>
+        <span class="lecture-name">Database Basics</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13813" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13813"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13813"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">30</span>
+        <span class="lecture-name">Regular Expressions</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13812"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13812"
+       data-target="#lesson-13812"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">29</span>
+        <span class="lecture-name">Database Basics</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13812">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13813"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13813"
+       data-target="#lesson-13813"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">30</span>
+        <span class="lecture-name">Regular Expressions</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13813">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13814" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13814"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13814"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">31</span>
+        <span class="lecture-name">Exercise: Regular Expressions</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13815" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13815"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13815"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">32</span>
+        <span class="lecture-name">Git and GitHub</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13814"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13814"
+       data-target="#lesson-13814"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">31</span>
+        <span class="lecture-name">Exercise: Regular Expressions</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13814">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13815"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13815"
+       data-target="#lesson-13815"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">32</span>
+        <span class="lecture-name">Git and GitHub</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13815">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13816" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13816"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13816"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">33</span>
+        <span class="lecture-name">Exam Preparation</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13817" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13817"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13817"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">34</span>
+        <span class="lecture-name">Exam Preparation</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13816"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13816"
+       data-target="#lesson-13816"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">33</span>
+        <span class="lecture-name">Exam Preparation</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13816">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13817"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13817"
+       data-target="#lesson-13817"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">34</span>
+        <span class="lecture-name">Exam Preparation</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13817">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13818" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13818"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13818"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">35</span>
+        <span class="lecture-name">QA Introduction</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13819" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13819"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13819"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">36</span>
+        <span class="lecture-name">Basic Web Project</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13818"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13818"
+       data-target="#lesson-13818"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">35</span>
+        <span class="lecture-name">QA Introduction</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13818">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13819"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13819"
+       data-target="#lesson-13819"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">36</span>
+        <span class="lecture-name">Basic Web Project</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13819">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13820" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13820"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13820"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">37</span>
+        <span class="lecture-name">Practical Exam</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13821" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13821"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13821"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">38</span>
+        <span class="lecture-name">Retake Mid Exam</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13820"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13820"
+       data-target="#lesson-13820"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">37</span>
+        <span class="lecture-name">Practical Exam</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13820">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13821"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13821"
+       data-target="#lesson-13821"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">38</span>
+        <span class="lecture-name">Retake Mid Exam</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13821">
+    </div>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-lg visible-md">
+    <a href="#lesson-13822" 
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1"
+       data-id="13822"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-target="#lesson-13822"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">39</span>
+        <span class="lecture-name">Retake Practical Exam</span>
+
+
+    </a>
+</li>
+
+<li class="lecture col-md-6 col-sm-12 visible-sm visible-xs no-padding">
+    <a href="#lesson-13822"
+       a-expanded="false"
+       class="lecture-link panel-heading collapsed"
+       tabindex="1" data-id="13822"
+       data-target="#lesson-13822"
+       data-training-id="2600"
+       data-is-content-loaded="false"
+       data-toggle="collapse"
+       data-parent="#lectures-list">
+        <span class="lecture-number">39</span>
+        <span class="lecture-name">Retake Practical Exam</span>
+
+
+    </a>
+</li>
+
+<li class="col-md-12 lecture-details-container">
+    <div class="lecture-details row panel-collapse bottom-buffer-lg collapse col-md-12" id="lesson-13822">
+    </div>
+</li>
+        </ul>
+    </div>
+</div>
+
+<script>
+    $(function () {
+        var $lectureElements = $('.lectures-list .lecture.visible-xs');
+
+        var wrapperHeight = 50;
+        for (var i = 0; i < 5; i++) {
+            wrapperHeight += $($lectureElements[i]).height();
+        }
+
+        $('#lectures-list').on('show.bs.collapse', function (ev) {
+            var lectureLinks = $(document)
+                .find('[href="#' + $(ev.target).attr('id') + '"]');
+
+            var lectureLink = lectureLinks[0];
+            var isContentLoaded = JSON.parse(lectureLink.dataset.isContentLoaded);
+
+            if (!isContentLoaded) {
+                var lectureId = lectureLink.dataset.id;
+                var trainingId = lectureLink.dataset.trainingId;
+                var targetElement = $(lectureLink.dataset.target);
+
+                targetElement.html('<i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i>');
+
+                $.ajax({
+                    url: '/trainings/trainings/getlecturedetails',
+                    data: {
+                        trainingId: trainingId,
+                        lectureId: lectureId
+                    }
+                }).then(function (lectureDetailsHtml) {
+                    var lectureDetailsElement = $('<div>' + lectureDetailsHtml + '</div>').hide();
+
+                    targetElement.html('');
+                    targetElement.append(lectureDetailsElement)
+                    lectureDetailsElement.slideDown();
+
+                    for (var i = 0; i < lectureLinks.length; i++) {
+                        lectureLinks[i].dataset.isContentLoaded = 'true';
+                    }
+                })
+            }
+        });
+
+        Suls.AnimationHelper.appendMoreOrLessTextButton(
+            wrapperHeight,
+            '#lectures-list',
+            '.lecture-wrap',
+            'Още',
+            'Скрий',
+             true);
+    });
+</script>
+
+                
+
+<div id="resource-bug-report-popup">
+<form action="/trainings/resources/reportbug" data-ajax="true" data-ajax-method="POST" data-ajax-success="onBugReportEnd" id="report-bug-form" method="post"><input name="__RequestVerificationToken" type="hidden" value="Fiygc_y-7hLB7aVmCtCtCUXx7tKm6sM12rWZLneU9EB_DQ6qN7f23SiO7FpatYpzwA1iM8wPBZpc7CDCDpcvPItkwMQ8mL8WCxwnJey1kjvVGjpoFHDkRFzQudhJPKRnGwq-dA2" />        <div id="bug-report-success"></div>
+        <p id="bug-report-disclaimer">
+            *Моля, докладвайте само грешки в материалите към лекцията.
+ За всякакъв друг тип грешки, свързани със системата,
+ използвайте <a href="/contacts">формата за обратна връзка</a>."
+        </p>
+        <div class="editor-label">
+            <div class="editor-label">
+                <label for="ResourceId">Материал</label>
+                <span class="text-danger">*</span>
+            </div>
+
+            <div class="editor-field resources-dropdown">
+                <input class="text-box single-line" data-val="true" data-val-number="The field Материал must be a number." data-val-range="Моля, изберете материал." data-val-range-max="2147483647" data-val-range-min="1" data-val-required="Моля, изберете материал." id="ResourceId" name="ResourceId" type="number" value="0" />
+                <div>
+                    <span class="field-validation-valid" data-valmsg-for="ResourceId" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+        </div>
+        <div class="editor-label">
+            <div class="editor-label">
+                <label for="Location">Местоположение</label>
+                <span class="text-danger">*</span>
+            </div>
+
+            <div class="editor-field">
+                
+
+<input class="form-control" data-val="true" data-val-length="Местоположението на грешката трябва да е между 6 и 300 символа дълго." data-val-length-max="300" data-val-length-min="6" data-val-required="Моля, посочете къде се намира грешката." id="Location" name="Location" placeholder="Местоположение на грешката" type="text" value="" />
+                <div>
+                    <span class="field-validation-valid" data-valmsg-for="Location" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+        </div>
+        <div class="editor-label clearfix bottom-buffer">
+            <div id="description-label-container" class="editor-label">
+                <label for="Description">Описание</label>
+                <span class="text-danger">*</span>
+            </div>
+
+            <div class="editor-field">
+                
+
+<textarea class="form-control" cols="20" data-val="true" data-val-length="Описанието на грешката трябва да е между 12 и 2000 символа дълго." data-val-length-max="2000" data-val-length-min="12" data-val-required="Моля, дайте описание на грешката." id="Description" name="Description" placeholder="Описание на грешката" rows="10">
+</textarea>
+
+                <div>
+                    <span class="field-validation-valid" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+        </div>
+        <div id="resource-bug-report-buttons-container" class="top-buffer text-center">
+            <input type="submit" class="k-button" id="resource-bug-report-ok-button" value="Докладвай" />
+            <input type="button" class="k-button primary-btn primary-blue-btn" id="resource-bug-report-cancel-button" value="Отказ" />
+        </div>
+</form></div>
+
+<script>
+    $(function () {
+        var bugReportPopupWindow = $('#resource-bug-report-popup').kendoWindow({
+            height: 'auto',
+            width: '600px',
+            title: 'Докладване на грешка в материал за лекция',
+            visible: false,
+            modal: true,
+            deactivate: resetFormValues
+        }).data('kendoWindow');
+    });
+
+    function onBugReportEnd(data) {
+        if (data.SuccessMessage) {
+            $('#resource-bug-report-popup').data('kendoWindow').close();
+        }
+    }
+
+    function resetFormValues() {
+        $('#report-bug-form span.k-invalid-msg').hide();
+        document.getElementById('report-bug-form').reset();
+    }
+</script>
+
+            </section>
+        </div>
+            <div class="row no-margin-offset bottom-buffer top-buffer text-center">
+                <a href="/courses/programming-fundamentals" class="primary-btn base-btn long-btn top-buffer"
+                   title="Към предишни издания на курса">
+                    Към предишни издания на курса
+                </a>
+            </div>
+            <div class="row no-margin-offset bottom-buffer-lg text-center">
+                <a class="primary-btn base-btn long-btn top-buffer feedback-btn" href="/contacts" title="Добави обратна връзка">Добави обратна връзка</a>
+            </div>
+</div>
+
+
+
+    </div>
+
+
+
+<footer id="page-footer" class="page-footer">
+    <div class="container container-holder">
+        <ul class="row">
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper">
+                <h3 class="list-title text-uppercase">За Software University</h3>
+                <ul class="footer-list">
+                    <li><a href="/about">За нас</a></li>
+                    <li><a href="/curriculum">Учебен план</a></li>
+                    <li><a href="/diplomas-and-certificates">Сертификати</a></li>
+                    <li><a href="/trainers">Преподаватели</a></li>
+                    <li><a href="/plans">Такси за обучение</a></li>
+                    <li><a href="/how-to-apply">Как да кандидатствам</a></li>
+                    <li><a href="/faq">Често задавани въпроси</a></li>
+                    <li><a href="/files/termsandconditions/terms-and-conditions.pdf">Общи условия</a></li>
+                    <li><a href="/files/privacypolicy/privacy-policy.pdf">Лични данни</a></li>
+                    <li><a href="/sitemap">Карта на сайта</a></li>
+                </ul>
+            </li>
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper">
+                <h3 class="list-title text-uppercase">Всички обучения</h3>
+                <ul class="footer-list">
+                    <li>
+                        <a href="/trainings/courses">Курсове</a>
+                    </li>
+                    <li>
+                        <a href="/trainings/opencourses">Отворени курсове и модули</a>
+                    </li>
+                    <li>
+                        <a href="/trainings/seminars">Семинари</a>
+                    </li>                  
+                </ul>
+
+                <div class="initatives footer-list-wrapper">
+                    <h3 class="list-title text-uppercase top-buffer-lg">Всички инициативи</h3>
+                    <ul class="footer-list">
+                        <li>
+                            <a href="https://digital.softuni.bg" title="SoftUni Digital">
+                                SoftUni Digital
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://creative.softuni.bg" title="SoftUni Creative">
+                                SoftUni Creative
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://kids.softuni.bg" title="SoftUni Kids">
+                                SoftUni Kids
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://svetlina.softuni.bg" title="SoftUni Svetlina">
+                                SoftUni Svetlina
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://softuni.foundation/" title="SoftUni Foundation">
+                                SoftUni Foundation
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper">
+                <h3 class="list-title text-uppercase">Основни партньори</h3>
+                <ul class="footer-list">
+                    
+                    
+                    <li><span hashstring="aHJlZjpodHRwOi8vd3d3LnhzLXNvZnR3YXJlLmNvbS8sdGFyZ2V0OmJsYW5r" hashtype="content"></span></li>
+                    
+                    <li><span hashstring="aHJlZjpodHRwOi8vc21hcnRpdC5iZy8sdGFyZ2V0OmJsYW5r" hashtype="content"></span></li>
+                    
+                    <li><span hashstring="aHJlZjpodHRwOi8vd3d3LnNvZnR3YXJlZ3JvdXAtYmcuY29tLyx0YXJnZXQ6Ymxhbms=" hashtype="content"></span></li>
+                    
+                    <li><span hashstring="aHJlZjpodHRwOi8vd3d3LnN1cGVyaG9zdGluZy5iZy8sdGFyZ2V0OmJsYW5r" hashtype="content"></span></li>
+                    
+                    <li><span hashstring="aHJlZjpodHRwOi8vd3d3LmluZGVhdnIuY29tLyx0YXJnZXQ6Ymxhbms=" hashtype="content"></span></li>
+                    
+                    <li><span hashstring="aHJlZjpodHRwOi8vd3d3LmluZnJhZ2lzdGljcy5jb20vLHRhcmdldDpibGFuaw==" hashtype="content"></span></li>
+                    
+                    <li><span hashstring="aHJlZjpodHRwOi8vbmV0cGVhay5iZy8sdGFyZ2V0OmJsYW5r" hashtype="content"></span></li>
+                    
+                    <li><span hashstring="aHJlZjpodHRwczovL3d3dy5zYnRlY2guY29tLw==" hashtype="content"></span></li>
+                    
+                    <li><span hashstring="aHJlZjpodHRwczovL3d3dy5wb3N0YmFuay5iZy8=" hashtype="content"></span></li>
+                </ul>
+            </li>
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper">
+                <div class="switch-wrapper vertical" data-role="switch">
+                    <div class="language-switch-container">
+                        <div class="language-switch"></div>
+                    </div>
+                    <ul class="lang">
+                        <li class="bg">
+                            <a href="javascript:;" data-lang-id="bg" class="lang-switch-label">Български</a>
+                        </li>
+                        <li class="en">
+                            <a href="javascript:;" data-lang-id="en" class="lang-switch-label">English</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <ul class="social">
+                    <li>
+                        <a href="https://www.facebook.com/SoftwareUniversity" target="_blank" class="icon-btn">
+                            <span class="fa fa-facebook"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/softunibg" target="_blank" class="icon-btn">
+                            <span class="fa fa-twitter"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://plus.google.com/+SoftuniBg" target="_blank" class="icon-btn">
+                            <span class="fa fa-google-plus"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/user/softwareuniversity" target="_blank" class="icon-btn">
+                            <span class="fa fa-youtube-play"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/softuni" target="_blank" class="icon-btn">
+                            <span class="fa fa-github"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/softuni.bg/" target="_blank" class="icon-btn">
+                            <span class="fa fa-instagram"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/feed" target="_blank" class="icon-btn">
+                            <span class="fa fa-rss"></span>
+                        </a>
+                    </li>
+                    <li class="visa top-buffer bottom-buffer">
+                        <img title="Профил" src="/Content/images/payments/verified-by-visa.png" alt="Verified by Visa" height="38" />
+                    </li>
+                    <li class="mastercard top-buffer bottom-buffer">
+                        <a href="http://www.mastercardbusiness.com/mcbiz/index.jsp?template=/orphans&content=securecodepopup">
+                            <img title="Профил" src="/Content/images/payments/sclogo_68x37.gif" alt="MasterCard® SecureCode™" height="38"/>
+                        </a>
+                    </li>
+                </ul>
+
+                <div class="all-rights-reserved">
+                    <p>© 2013-2020 - Software University LTD - All Rights Reserved. 94851</p>
+
+                    <p>Software University Learning System 3.0.7327</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+    <a href="#" id="scrollToTop" class="button-to-top"><span class="glyphicon glyphicon-chevron-up"></span></a>
+
+<script>
+    $(document).ready(function () {
+        var offset = 220;
+        var duration = 500;
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > offset) {
+                $('#scrollToTop').fadeIn(duration);
+            } else {
+                $('#scrollToTop').fadeOut(duration);
+            }
+        });
+
+        $('#scrollToTop').click(function (event) {
+            event.preventDefault();
+            $('html, body').animate({ scrollTop: 0 }, 800);
+            return false;
+        });
+    });
+</script>
+
+    <script src="/Scripts/webshims/polyfiller.js"></script>
+    <script src="/signalr/hubs"></script>
+    <script>webshim.polyfill('forms');</script>
+
+
+    <script src="/bundles/global?v=7REDmM4g8VynCYv4DTYiwjDAhR5aywtwdec0kCToe181"></script>
+
+
+    <script type="text/javascript">
+        $(function () {
+
+            sulsControls.ReferralsControls.checkForReferral();
+        });
+    </script>
+
+    
+
+    <script src="/bundles/training-details?v=Mwm-kwgD4DmpB7u3dhNaCDCyiP130exagH492ukXDAs1"></script>
+
+
+
+        <script>
+            $(function () {
+                var id = window.location.hash;
+                if (id === '#showparticipationtype') {
+                    $('#participation-types-description-link').click();
+                }
+
+                Suls.TrainingDetailsEvents.addShowOrHideTrainingDetailsEvent(
+                    '2600',
+                    '/trainings/trainings/getcoursedetails',
+                    'Виж пълна информация за курса',
+                    'Скрий пълна информация за курса');
+            });
+        </script>
+
+    <script>
+        $(function() {
+            App.LazyLoadContent
+                .Add({
+                    selector: '#live-stream-button-container',
+                    showLoader: false
+                })
+                .Initialize();
+
+            App.Trainers.getTrainersLinkedInProfiles();
+
+            Suls.TrainingDetailsEvents.attachLectureResourcesListEvents();
+            Suls.TrainingDetailsEvents.attachLectureResourcesLinkEvents();
+            Suls.TrainingDetailsEvents.attachLectureResourcesAnchorEvents();
+            Suls.TrainingDetailsEvents.localizeForWhomIsItSuitable();
+        });
+    </script>
+
+
+    <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://softuni.bg",
+        "logo": "https://softuni.bg/content/images/software-university-logo.png"
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+        "@context" : "http://schema.org",
+        "@type" : "Organization",
+        "name" : "Софтуерен университет ООД",
+        "url" : "https://softuni.bg",
+        "sameAs" : [
+        "https://www.facebook.com/SoftwareUniversity",
+        "https://twitter.com/softunibg",
+        "https://plus.google.com/+SoftuniBg"
+        ]
+        }
+    </script>
+
+    
+</body>
+</html>

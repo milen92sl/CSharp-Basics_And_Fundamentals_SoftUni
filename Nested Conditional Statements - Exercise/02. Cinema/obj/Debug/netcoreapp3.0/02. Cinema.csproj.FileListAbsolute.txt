@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\bin\Debug\netcoreapp3.0\02. Cinema.exe
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\bin\Debug\netcoreapp3.0\02. Cinema.deps.json
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\bin\Debug\netcoreapp3.0\02. Cinema.runtimeconfig.json
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\bin\Debug\netcoreapp3.0\02. Cinema.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\bin\Debug\netcoreapp3.0\02. Cinema.dll
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\bin\Debug\netcoreapp3.0\02. Cinema.pdb
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\obj\Debug\netcoreapp3.0\02. Cinema.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\obj\Debug\netcoreapp3.0\02. Cinema.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\obj\Debug\netcoreapp3.0\02. Cinema.AssemblyInfo.cs
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\obj\Debug\netcoreapp3.0\02. Cinema.dll
+C:\Users\N1\source\repos\Nested Conditional Statements - Exercise\02. Cinema\obj\Debug\netcoreapp3.0\02. Cinema.pdb

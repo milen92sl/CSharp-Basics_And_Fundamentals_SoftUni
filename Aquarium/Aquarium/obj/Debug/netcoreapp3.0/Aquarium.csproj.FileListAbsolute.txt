@@ -1,0 +1,3 @@
+C:\Users\N1\source\repos\Aquarium\Aquarium\obj\Debug\netcoreapp3.0\Aquarium.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Aquarium\Aquarium\obj\Debug\netcoreapp3.0\Aquarium.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Aquarium\Aquarium\obj\Debug\netcoreapp3.0\Aquarium.AssemblyInfo.cs

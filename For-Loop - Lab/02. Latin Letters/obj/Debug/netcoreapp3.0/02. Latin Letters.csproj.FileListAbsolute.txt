@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp3.0\02. Latin Letters.exe
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp3.0\02. Latin Letters.deps.json
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp3.0\02. Latin Letters.runtimeconfig.json
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp3.0\02. Latin Letters.runtimeconfig.dev.json
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp3.0\02. Latin Letters.dll
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp3.0\02. Latin Letters.pdb
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\obj\Debug\netcoreapp3.0\02. Latin Letters.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\obj\Debug\netcoreapp3.0\02. Latin Letters.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\obj\Debug\netcoreapp3.0\02. Latin Letters.AssemblyInfo.cs
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\obj\Debug\netcoreapp3.0\02. Latin Letters.dll
+C:\Users\N1\source\repos\For-Loop - Lab\02. Latin Letters\obj\Debug\netcoreapp3.0\02. Latin Letters.pdb

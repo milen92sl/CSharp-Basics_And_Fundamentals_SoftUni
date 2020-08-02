@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\bin\Debug\netcoreapp3.0\04. Bachelor Party.exe
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\bin\Debug\netcoreapp3.0\04. Bachelor Party.deps.json
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\bin\Debug\netcoreapp3.0\04. Bachelor Party.runtimeconfig.json
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\bin\Debug\netcoreapp3.0\04. Bachelor Party.runtimeconfig.dev.json
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\bin\Debug\netcoreapp3.0\04. Bachelor Party.dll
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\bin\Debug\netcoreapp3.0\04. Bachelor Party.pdb
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\obj\Debug\netcoreapp3.0\04. Bachelor Party.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\obj\Debug\netcoreapp3.0\04. Bachelor Party.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\obj\Debug\netcoreapp3.0\04. Bachelor Party.AssemblyInfo.cs
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\obj\Debug\netcoreapp3.0\04. Bachelor Party.dll
+C:\Users\N1\source\repos\10.12.2019 Подготовка за изпит\ConsoleApp3\obj\Debug\netcoreapp3.0\04. Bachelor Party.pdb

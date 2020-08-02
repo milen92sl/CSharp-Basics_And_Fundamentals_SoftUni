@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\bin\Debug\netcoreapp3.0\06.Cards gake.exe
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\bin\Debug\netcoreapp3.0\06.Cards gake.deps.json
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\bin\Debug\netcoreapp3.0\06.Cards gake.runtimeconfig.json
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\bin\Debug\netcoreapp3.0\06.Cards gake.runtimeconfig.dev.json
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\bin\Debug\netcoreapp3.0\06.Cards gake.dll
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\bin\Debug\netcoreapp3.0\06.Cards gake.pdb
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\obj\Debug\netcoreapp3.0\06.Cards gake.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\obj\Debug\netcoreapp3.0\06.Cards gake.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\obj\Debug\netcoreapp3.0\06.Cards gake.AssemblyInfo.cs
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\obj\Debug\netcoreapp3.0\06.Cards gake.dll
+C:\Users\N1\source\repos\14.02. Lists Exercise\06.Append Arrays\obj\Debug\netcoreapp3.0\06.Cards gake.pdb

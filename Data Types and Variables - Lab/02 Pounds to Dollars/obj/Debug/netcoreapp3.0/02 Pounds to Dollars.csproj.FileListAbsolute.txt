@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\bin\Debug\netcoreapp3.0\02 Pounds to Dollars.exe
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\bin\Debug\netcoreapp3.0\02 Pounds to Dollars.deps.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\bin\Debug\netcoreapp3.0\02 Pounds to Dollars.runtimeconfig.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\bin\Debug\netcoreapp3.0\02 Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\bin\Debug\netcoreapp3.0\02 Pounds to Dollars.dll
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\bin\Debug\netcoreapp3.0\02 Pounds to Dollars.pdb
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\obj\Debug\netcoreapp3.0\02 Pounds to Dollars.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\obj\Debug\netcoreapp3.0\02 Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\obj\Debug\netcoreapp3.0\02 Pounds to Dollars.AssemblyInfo.cs
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\obj\Debug\netcoreapp3.0\02 Pounds to Dollars.dll
+C:\Users\N1\source\repos\22.01.2020 Data Types and Variables - Lab\02 Pounds to Dollars\obj\Debug\netcoreapp3.0\02 Pounds to Dollars.pdb

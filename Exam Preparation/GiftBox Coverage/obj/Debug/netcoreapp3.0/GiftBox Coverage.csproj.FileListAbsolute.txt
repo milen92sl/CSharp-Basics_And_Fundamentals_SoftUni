@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\bin\Debug\netcoreapp3.0\GiftBox Coverage.exe
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\bin\Debug\netcoreapp3.0\GiftBox Coverage.deps.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\bin\Debug\netcoreapp3.0\GiftBox Coverage.runtimeconfig.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\bin\Debug\netcoreapp3.0\GiftBox Coverage.runtimeconfig.dev.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\bin\Debug\netcoreapp3.0\GiftBox Coverage.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\bin\Debug\netcoreapp3.0\GiftBox Coverage.pdb
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\obj\Debug\netcoreapp3.0\GiftBox Coverage.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\obj\Debug\netcoreapp3.0\GiftBox Coverage.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\obj\Debug\netcoreapp3.0\GiftBox Coverage.AssemblyInfo.cs
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\obj\Debug\netcoreapp3.0\GiftBox Coverage.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\GiftBox Coverage\obj\Debug\netcoreapp3.0\GiftBox Coverage.pdb

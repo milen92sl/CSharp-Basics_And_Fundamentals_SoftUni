@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\For-Loop - Lab\09. Numbers N1\bin\Debug\netcoreapp3.0\09. Numbers N1.exe
+C:\Users\N1\source\repos\For-Loop - Lab\09. Numbers N1\bin\Debug\netcoreapp3.0\09. Numbers N1.deps.json
+C:\Users\N1\source\repos\For-Loop - Lab\09. Numbers N1\bin\Debug\netcoreapp3.0\09. Numbers N1.runtimeconfig.json
+C:\Users\N1\source\repos\For-Loop - Lab\09. Numbers N1\bin\Debug\netcoreapp3.0\09. Numbers N1.runtimeconfig.dev.json
+C:\Users\N1\source\repos\For-Loop - Lab\09. Numbers N1\bin\Debug\netcoreapp3.0\09. Numbers N1.dll
+C:\Users\N1\source\repos\For-Loop - Lab\09. Numbers N1\bin\Debug\netcoreapp3.0\09. Numbers N1.pdb
+C:\Users\N1\source\repos\For-Loop - Lab\09. Numbers N1\obj\Debug\netcoreapp3.0\09. Numbers N1.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\For-Loop - Lab\09. Numbers N1\obj\Debug\netcoreapp3.0\09. Numbers N1.AssemblyInfo.cs
+C:\Users\N1\source\repos\For-Loop - Lab\09. Numbers N1\obj\Debug\netcoreapp3.0\09. Numbers N1.dll
+C:\Users\N1\source\repos\For-Loop - Lab\09. Numbers N1\obj\Debug\netcoreapp3.0\09. Numbers N1.pdb

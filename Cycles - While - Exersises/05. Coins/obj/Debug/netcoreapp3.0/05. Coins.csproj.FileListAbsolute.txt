@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\bin\Debug\netcoreapp3.0\05. Coins.exe
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\bin\Debug\netcoreapp3.0\05. Coins.deps.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\bin\Debug\netcoreapp3.0\05. Coins.runtimeconfig.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\bin\Debug\netcoreapp3.0\05. Coins.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\bin\Debug\netcoreapp3.0\05. Coins.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\bin\Debug\netcoreapp3.0\05. Coins.pdb
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\obj\Debug\netcoreapp3.0\05. Coins.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\obj\Debug\netcoreapp3.0\05. Coins.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\obj\Debug\netcoreapp3.0\05. Coins.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\obj\Debug\netcoreapp3.0\05. Coins.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\05. Coins\obj\Debug\netcoreapp3.0\05. Coins.pdb

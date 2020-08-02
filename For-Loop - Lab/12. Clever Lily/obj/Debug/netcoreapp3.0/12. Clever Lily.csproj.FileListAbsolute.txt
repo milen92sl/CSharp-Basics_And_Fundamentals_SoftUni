@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\bin\Debug\netcoreapp3.0\12. Clever Lily.exe
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\bin\Debug\netcoreapp3.0\12. Clever Lily.deps.json
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\bin\Debug\netcoreapp3.0\12. Clever Lily.runtimeconfig.json
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\bin\Debug\netcoreapp3.0\12. Clever Lily.runtimeconfig.dev.json
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\bin\Debug\netcoreapp3.0\12. Clever Lily.dll
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\bin\Debug\netcoreapp3.0\12. Clever Lily.pdb
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\obj\Debug\netcoreapp3.0\12. Clever Lily.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\obj\Debug\netcoreapp3.0\12. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\obj\Debug\netcoreapp3.0\12. Clever Lily.AssemblyInfo.cs
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\obj\Debug\netcoreapp3.0\12. Clever Lily.dll
+C:\Users\N1\source\repos\For-Loop - Lab\12. Clever Lily\obj\Debug\netcoreapp3.0\12. Clever Lily.pdb

@@ -1,0 +1,3 @@
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\11. Snowballs\obj\Debug\netcoreapp3.0\11. Snowballs.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\11. Snowballs\obj\Debug\netcoreapp3.0\11. Snowballs.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\11. Snowballs\obj\Debug\netcoreapp3.0\11. Snowballs.AssemblyInfo.cs

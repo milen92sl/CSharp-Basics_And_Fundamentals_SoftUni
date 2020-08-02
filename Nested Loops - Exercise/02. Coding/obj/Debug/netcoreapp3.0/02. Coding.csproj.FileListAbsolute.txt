@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\bin\Debug\netcoreapp3.0\02. Coding.exe
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\bin\Debug\netcoreapp3.0\02. Coding.deps.json
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\bin\Debug\netcoreapp3.0\02. Coding.runtimeconfig.json
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\bin\Debug\netcoreapp3.0\02. Coding.runtimeconfig.dev.json
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\bin\Debug\netcoreapp3.0\02. Coding.dll
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\bin\Debug\netcoreapp3.0\02. Coding.pdb
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\obj\Debug\netcoreapp3.0\02. Coding.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\obj\Debug\netcoreapp3.0\02. Coding.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\obj\Debug\netcoreapp3.0\02. Coding.AssemblyInfo.cs
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\obj\Debug\netcoreapp3.0\02. Coding.dll
+C:\Users\N1\source\repos\08.12.19. Nested Loops - Exercise\02. Coding\obj\Debug\netcoreapp3.0\02. Coding.pdb

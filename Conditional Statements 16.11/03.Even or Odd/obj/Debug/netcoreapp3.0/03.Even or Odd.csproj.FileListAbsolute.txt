@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\obj\Debug\netcoreapp3.0\03.Even or Odd.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\obj\Debug\netcoreapp3.0\03.Even or Odd.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\obj\Debug\netcoreapp3.0\03.Even or Odd.AssemblyInfo.cs
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\bin\Debug\netcoreapp3.0\03.Even or Odd.exe
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\bin\Debug\netcoreapp3.0\03.Even or Odd.deps.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\bin\Debug\netcoreapp3.0\03.Even or Odd.runtimeconfig.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\bin\Debug\netcoreapp3.0\03.Even or Odd.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\bin\Debug\netcoreapp3.0\03.Even or Odd.dll
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\bin\Debug\netcoreapp3.0\03.Even or Odd.pdb
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\obj\Debug\netcoreapp3.0\03.Even or Odd.dll
+C:\Users\N1\source\repos\Conditional Statements 16.11\03.Even or Odd\obj\Debug\netcoreapp3.0\03.Even or Odd.pdb

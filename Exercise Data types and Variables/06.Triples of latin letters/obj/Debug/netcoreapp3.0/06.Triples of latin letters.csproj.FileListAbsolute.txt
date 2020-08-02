@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\bin\Debug\netcoreapp3.0\06.Triples of latin letters.exe
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\bin\Debug\netcoreapp3.0\06.Triples of latin letters.deps.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\bin\Debug\netcoreapp3.0\06.Triples of latin letters.runtimeconfig.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\bin\Debug\netcoreapp3.0\06.Triples of latin letters.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\bin\Debug\netcoreapp3.0\06.Triples of latin letters.dll
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\bin\Debug\netcoreapp3.0\06.Triples of latin letters.pdb
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\obj\Debug\netcoreapp3.0\06.Triples of latin letters.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\obj\Debug\netcoreapp3.0\06.Triples of latin letters.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\obj\Debug\netcoreapp3.0\06.Triples of latin letters.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\obj\Debug\netcoreapp3.0\06.Triples of latin letters.dll
+C:\Users\N1\source\repos\24.01.2020 Exercise Data types and Variables\06.Triples of latin letters\obj\Debug\netcoreapp3.0\06.Triples of latin letters.pdb

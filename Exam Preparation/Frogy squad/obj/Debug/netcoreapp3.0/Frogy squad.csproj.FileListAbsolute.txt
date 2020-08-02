@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\bin\Debug\netcoreapp3.0\Frogy squad.exe
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\bin\Debug\netcoreapp3.0\Frogy squad.deps.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\bin\Debug\netcoreapp3.0\Frogy squad.runtimeconfig.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\bin\Debug\netcoreapp3.0\Frogy squad.runtimeconfig.dev.json
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\bin\Debug\netcoreapp3.0\Frogy squad.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\bin\Debug\netcoreapp3.0\Frogy squad.pdb
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\obj\Debug\netcoreapp3.0\Frogy squad.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\obj\Debug\netcoreapp3.0\Frogy squad.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\obj\Debug\netcoreapp3.0\Frogy squad.AssemblyInfo.cs
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\obj\Debug\netcoreapp3.0\Frogy squad.dll
+C:\Users\N1\source\repos\26.02 Exam Preparation\Frogy squad\obj\Debug\netcoreapp3.0\Frogy squad.pdb

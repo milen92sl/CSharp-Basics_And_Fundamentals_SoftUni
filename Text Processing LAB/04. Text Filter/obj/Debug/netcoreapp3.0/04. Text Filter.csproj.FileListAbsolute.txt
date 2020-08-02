@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\bin\Debug\netcoreapp3.0\04. Text Filter.exe
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\bin\Debug\netcoreapp3.0\04. Text Filter.deps.json
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\bin\Debug\netcoreapp3.0\04. Text Filter.runtimeconfig.json
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\bin\Debug\netcoreapp3.0\04. Text Filter.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\bin\Debug\netcoreapp3.0\04. Text Filter.dll
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\bin\Debug\netcoreapp3.0\04. Text Filter.pdb
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\obj\Debug\netcoreapp3.0\04. Text Filter.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\obj\Debug\netcoreapp3.0\04. Text Filter.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\obj\Debug\netcoreapp3.0\04. Text Filter.AssemblyInfo.cs
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\obj\Debug\netcoreapp3.0\04. Text Filter.dll
+C:\Users\N1\source\repos\Text Processing LAB\04. Text Filter\obj\Debug\netcoreapp3.0\04. Text Filter.pdb

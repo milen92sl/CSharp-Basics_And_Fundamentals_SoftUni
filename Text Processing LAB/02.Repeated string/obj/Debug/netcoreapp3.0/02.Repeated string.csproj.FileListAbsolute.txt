@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\bin\Debug\netcoreapp3.0\02.Repeated string.exe
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\bin\Debug\netcoreapp3.0\02.Repeated string.deps.json
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\bin\Debug\netcoreapp3.0\02.Repeated string.runtimeconfig.json
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\bin\Debug\netcoreapp3.0\02.Repeated string.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\bin\Debug\netcoreapp3.0\02.Repeated string.dll
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\bin\Debug\netcoreapp3.0\02.Repeated string.pdb
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\obj\Debug\netcoreapp3.0\02.Repeated string.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\obj\Debug\netcoreapp3.0\02.Repeated string.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\obj\Debug\netcoreapp3.0\02.Repeated string.AssemblyInfo.cs
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\obj\Debug\netcoreapp3.0\02.Repeated string.dll
+C:\Users\N1\source\repos\Text Processing LAB\02.Repeated string\obj\Debug\netcoreapp3.0\02.Repeated string.pdb

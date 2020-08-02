@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\bin\Debug\netcoreapp3.0\ExelentResults.exe
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\bin\Debug\netcoreapp3.0\ExelentResults.deps.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\bin\Debug\netcoreapp3.0\ExelentResults.runtimeconfig.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\bin\Debug\netcoreapp3.0\ExelentResults.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\bin\Debug\netcoreapp3.0\ExelentResults.dll
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\bin\Debug\netcoreapp3.0\ExelentResults.pdb
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\obj\Debug\netcoreapp3.0\ExelentResults.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\obj\Debug\netcoreapp3.0\ExelentResults.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\obj\Debug\netcoreapp3.0\ExelentResults.AssemblyInfo.cs
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\obj\Debug\netcoreapp3.0\ExelentResults.dll
+C:\Users\N1\source\repos\Conditional Statements 16.11\ExelentResults\obj\Debug\netcoreapp3.0\ExelentResults.pdb

@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\bin\Debug\netcoreapp3.0\02. Exam Preparation.exe
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\bin\Debug\netcoreapp3.0\02. Exam Preparation.deps.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\bin\Debug\netcoreapp3.0\02. Exam Preparation.runtimeconfig.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\bin\Debug\netcoreapp3.0\02. Exam Preparation.runtimeconfig.dev.json
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\bin\Debug\netcoreapp3.0\02. Exam Preparation.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\bin\Debug\netcoreapp3.0\02. Exam Preparation.pdb
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\obj\Debug\netcoreapp3.0\02. Exam Preparation.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\obj\Debug\netcoreapp3.0\02. Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\obj\Debug\netcoreapp3.0\02. Exam Preparation.AssemblyInfo.cs
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\obj\Debug\netcoreapp3.0\02. Exam Preparation.dll
+C:\Users\N1\source\repos\24.11.19 Cycles - While - Exersises\02. Exam Preparation\obj\Debug\netcoreapp3.0\02. Exam Preparation.pdb

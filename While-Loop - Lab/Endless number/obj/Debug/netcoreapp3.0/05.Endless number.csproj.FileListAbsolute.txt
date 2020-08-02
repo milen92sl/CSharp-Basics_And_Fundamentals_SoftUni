@@ -1,0 +1,10 @@
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\Endless number\bin\Debug\netcoreapp3.0\05.Endless number.exe
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\Endless number\bin\Debug\netcoreapp3.0\05.Endless number.deps.json
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\Endless number\bin\Debug\netcoreapp3.0\05.Endless number.runtimeconfig.json
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\Endless number\bin\Debug\netcoreapp3.0\05.Endless number.runtimeconfig.dev.json
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\Endless number\bin\Debug\netcoreapp3.0\05.Endless number.dll
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\Endless number\bin\Debug\netcoreapp3.0\05.Endless number.pdb
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\Endless number\obj\Debug\netcoreapp3.0\05.Endless number.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\Endless number\obj\Debug\netcoreapp3.0\05.Endless number.AssemblyInfo.cs
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\Endless number\obj\Debug\netcoreapp3.0\05.Endless number.dll
+C:\Users\N1\source\repos\23.11.19 While-Loop - Lab\Endless number\obj\Debug\netcoreapp3.0\05.Endless number.pdb

@@ -1,0 +1,11 @@
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\obj\Debug\netcoreapp3.0\HousPainting.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\obj\Debug\netcoreapp3.0\HousPainting.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\obj\Debug\netcoreapp3.0\HousPainting.AssemblyInfo.cs
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\bin\Debug\netcoreapp3.0\HousPainting.exe
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\bin\Debug\netcoreapp3.0\HousPainting.deps.json
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\bin\Debug\netcoreapp3.0\HousPainting.runtimeconfig.json
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\bin\Debug\netcoreapp3.0\HousPainting.runtimeconfig.dev.json
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\bin\Debug\netcoreapp3.0\HousPainting.dll
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\bin\Debug\netcoreapp3.0\HousPainting.pdb
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\obj\Debug\netcoreapp3.0\HousPainting.dll
+C:\Users\N1\source\repos\MoiUprajneniq\HousPainting\obj\Debug\netcoreapp3.0\HousPainting.pdb
